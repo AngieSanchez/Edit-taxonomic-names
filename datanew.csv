@@ -1,0 +1,992 @@
+,submitted_name,matched_name,data_source_title
+1,Abananote hylonome,"Abananote Potts, 1943",GBIF Backbone Taxonomy
+2,Achlyodes busirus,"Achlyodes busirus Stoll, 1782",GBIF Backbone Taxonomy
+3,Achlyodes mithridates,"Achlyodes mithridates Fabricius, 1793",GBIF Backbone Taxonomy
+4,Achlyodes pallida,"Achlyodes pallida (R. Felder, 1869)",ITIS
+5,Achlyodes pallida,"Achlyodes pallida Felder, 1869",GBIF Backbone Taxonomy
+6,Achlyodes  sp.,"Achlyodes Hübner, 1819",ITIS
+7,Achlyodes  sp.,"Achlyodes Hübner, 1819",GBIF Backbone Taxonomy
+8,Achlyodes sp.,"Achlyodes Hübner, 1819",ITIS
+9,Achlyodes sp.,"Achlyodes Hübner, 1819",GBIF Backbone Taxonomy
+10,Actinote amida,"Actinote amida Hewitson, 1854",GBIF Backbone Taxonomy
+11,Actinote anteas,"Actinote anteas Doubleday, 1847",GBIF Backbone Taxonomy
+12,Actinote equatoria,"Actinote equatoria Bates, 1864",GBIF Backbone Taxonomy
+13,Actinote eresia,"Actinote eresia Felder, 1862",GBIF Backbone Taxonomy
+14,Actinote guatemalena,"Actinote guatemalena Bates, 1864",GBIF Backbone Taxonomy
+15,Actinote hilaris,"Actinote hilaris Jordan, 1910",GBIF Backbone Taxonomy
+16,Actinote melampeplos,"Actinote melampeplos Godman & Salvin, 1881",GBIF Backbone Taxonomy
+17,Actinote melanpeplas,"Actinote melampeplos Godman & Salvin, 1881",GBIF Backbone Taxonomy
+18,Actinote parapheles,"Actinote parapheles Jordan, 1913",GBIF Backbone Taxonomy
+19,Actinote sp.,"Actinote Hübner, 1819",GBIF Backbone Taxonomy
+20,Actinote stratonice,"Actinote stratonice Latreille, 1811",GBIF Backbone Taxonomy
+21,Adelpha alala,"Adelpha Hübner, 1819",ITIS
+22,Adelpha alala,"Adelpha Hübner, 1819",GBIF Backbone Taxonomy
+23,Adelpha alala,"Adelpha Schulz, 1906",GBIF Backbone Taxonomy
+24,Adelpha cytherea,"Adelpha Hübner, 1819",ITIS
+25,Adelpha cytherea,"Adelpha Hübner, 1819",GBIF Backbone Taxonomy
+26,Adelpha cytherea,"Adelpha Schulz, 1906",GBIF Backbone Taxonomy
+27,Adelpha iphicleola,"Adelpha Hübner, 1819",ITIS
+28,Adelpha iphicleola,"Adelpha Hübner, 1819",GBIF Backbone Taxonomy
+29,Adelpha iphicleola,"Adelpha Schulz, 1906",GBIF Backbone Taxonomy
+30,Adelpha iphiclus,"Adelpha Hübner, 1819",ITIS
+31,Adelpha iphiclus,"Adelpha Hübner, 1819",GBIF Backbone Taxonomy
+32,Adelpha iphiclus,"Adelpha Schulz, 1906",GBIF Backbone Taxonomy
+33,Adelpha irmina,"Adelpha Hübner, 1819",ITIS
+34,Adelpha irmina,"Adelpha Hübner, 1819",GBIF Backbone Taxonomy
+35,Adelpha irmina,"Adelpha Schulz, 1906",GBIF Backbone Taxonomy
+36,Adelpha malea,"Adelpha Hübner, 1819",ITIS
+37,Adelpha malea,"Adelpha Hübner, 1819",GBIF Backbone Taxonomy
+38,Adelpha malea,"Adelpha Schulz, 1906",GBIF Backbone Taxonomy
+39,Adelpha phylaca,"Adelpha Hübner, 1819",ITIS
+40,Adelpha phylaca,"Adelpha Hübner, 1819",GBIF Backbone Taxonomy
+41,Adelpha phylaca,"Adelpha Schulz, 1906",GBIF Backbone Taxonomy
+42,Adelpha serpa,"Adelpha Hübner, 1819",ITIS
+43,Adelpha serpa,"Adelpha Hübner, 1819",GBIF Backbone Taxonomy
+44,Adelpha serpa,"Adelpha Schulz, 1906",GBIF Backbone Taxonomy
+45,Adelpha sp.,"Adelpha Hübner, 1819",ITIS
+46,Adelpha sp.,"Adelpha Hübner, 1819",GBIF Backbone Taxonomy
+47,Adelpha sp.,"Adelpha Schulz, 1906",GBIF Backbone Taxonomy
+48,Aeria elara,"Aeria elara Hewitson, 1855",GBIF Backbone Taxonomy
+49,Aeria eurimedia,"Aeria eurimedia Cramer, 1779",GBIF Backbone Taxonomy
+50,Agraulis vanillae,"Agraulis vanillae (Linnaeus, 1758)",ITIS
+51,Agraulis vanillae,"Agraulis vanillae Linnaeus, 1758",GBIF Backbone Taxonomy
+52,Agryas amydon,"Agrias amydon Hewitson, 1853",GBIF Backbone Taxonomy
+53,Aguna claxon,"Aguna claxon Evans, 1952",ITIS
+54,Aguna claxon,"Aguna claxon Evans, 1952",GBIF Backbone Taxonomy
+55,Aides epitus,"Aides epitus Stoll, 1781",GBIF Backbone Taxonomy
+56,Allosmaitia strophius,"Allosmaitia strophius (Godart, 1824)",ITIS
+57,Allosmaitia strophius,"Allosmaitia strophius (Godart, 1824)",GBIF Backbone Taxonomy
+58,Altinote hylonome,"Altinote hylonome Doubleday, 1844",GBIF Backbone Taxonomy
+59,Altinote neleus,"Altinote neleus Latreille, 1811",GBIF Backbone Taxonomy
+60,Amenis pionia,"Amenis pionia Hewitson, 1857",GBIF Backbone Taxonomy
+61,Anaea panariste,"Anaea panariste Hewitson, 1856",GBIF Backbone Taxonomy
+62,Anartia amathea,"Anartia amathea Linnaeus, 1758",GBIF Backbone Taxonomy
+63,Anartia jatrophae,"Anartia jatrophae (Linnaeus, 1763)",ITIS
+64,Anartia jatrophae,"Anartia jatrophae Linnaeus, 1763",GBIF Backbone Taxonomy
+65,Anisochoria pedaliodina,"Anisochoria pedaliodina Butler, 1870",GBIF Backbone Taxonomy
+66,Anteos clorinde,"Anteos clorinde (Godart, 1824)",ITIS
+67,Anteos clorinde,"Anteos clorinde (Godart, 1824)",GBIF Backbone Taxonomy
+70,Anteos menippe,"Anteos menippe (Hübner, 1818)",GBIF Backbone Taxonomy
+71,Anteros carausius,"Anteros carausius Westwood, 1851",GBIF Backbone Taxonomy
+72,Anteros chrysoprastus,"Anteros chrysoprastus Hewitson, 1897",GBIF Backbone Taxonomy
+73,Anteros formosus,"Anteros formosus Cramer, 1777",GBIF Backbone Taxonomy
+74,Anthanassa drusilla,"Anthanassa drusilla Felder, 1861",GBIF Backbone Taxonomy
+75,Anthanassa ptolyca,"Anthanassa ptolyca (H. Bates, 1864)",ITIS
+76,Anthanassa ptolyca,"Anthanassa ptolyca Bates, 1864",GBIF Backbone Taxonomy
+77,Anthoptus lento,"Anthoptus Bell, 1942",GBIF Backbone Taxonomy
+78,Antigonus erosus,"Antigonus erosus (Hübner, 1812)",ITIS
+79,Antigonus erosus,"Antigonus erosus Hübner, 1812",GBIF Backbone Taxonomy
+80,Aphrissa boisduvalii,"Aphrissa boisduvalii (Felder & Felder, 1861)",GBIF Backbone Taxonomy
+81,Aphrissa statira,"Aphrissa statira (Cramer, 1777)",ITIS
+82,Aphrissa statira,"Aphrissa statira (Cramer, 1777)",GBIF Backbone Taxonomy
+83,Arawacus aetolus,"Arawacus aetolus Cramer, 1782",GBIF Backbone Taxonomy
+84,Arawacus dolylas,"Arawacus Kaye, 1904",ITIS
+85,Arawacus dolylas,"Arawacus Kaye, 1904",GBIF Backbone Taxonomy
+86,Arawacus dumenilii,"Arawacus Kaye, 1904",ITIS
+87,Arawacus dumenilii,"Arawacus Kaye, 1904",GBIF Backbone Taxonomy
+88,Arawacus dumerilii,"Arawacus Kaye, 1904",ITIS
+89,Arawacus dumerilii,"Arawacus Kaye, 1904",GBIF Backbone Taxonomy
+90,Arawacus leucogyna,"Arawacus Kaye, 1904",ITIS
+91,Arawacus leucogyna,"Arawacus Kaye, 1904",GBIF Backbone Taxonomy
+92,Arawacus sp.,"Arawacus Kaye, 1904",ITIS
+93,Arawacus sp.,"Arawacus Kaye, 1904",GBIF Backbone Taxonomy
+94,Arawacus togarna,"Arawacus Kaye, 1904",ITIS
+95,Arawacus togarna,"Arawacus Kaye, 1904",GBIF Backbone Taxonomy
+96,Arcas sp.,"Arcas Swainson, 1832",GBIF Backbone Taxonomy
+97,Archaeoprepona,"Archaeoprepona Fruhstorfer, 1915",GBIF Backbone Taxonomy
+98,Archaeoprepona demophon,"Archaeoprepona Fruhstorfer, 1915",GBIF Backbone Taxonomy
+99,Ariconias albinus,"Ariconias Hall & Harvey, 2002",GBIF Backbone Taxonomy
+100,Aricoris erostratus,"Aricoris Westwood in Doubleday & Westwood, 1851",GBIF Backbone Taxonomy
+101,Ascalapha odorata,Ascalapha odorata (Linnaeus),ITIS
+102,Ascalapha odorata,"Ascalapha odorata Linnaeus, 1758",GBIF Backbone Taxonomy
+103,Ascia monuste,"Ascia monuste (Linnaeus, 1764)",ITIS
+104,Ascia monuste,"Ascia monuste (Linnaeus, 1764)",GBIF Backbone Taxonomy
+107,Ascia sp.,"Ascia Scopoli, 1777",ITIS
+108,Ascia sp.,"Ascia Scopoli, 1777",GBIF Backbone Taxonomy
+109,Ascia sp.,"Ascia Meigen, 1822",GBIF Backbone Taxonomy
+110,Astraptes egregius,"Astraptes egregius (Butler, 1870)",ITIS
+111,Astraptes egregius,"Astraptes egregius Butler, 1870",GBIF Backbone Taxonomy
+112,Astraptes sp.,"Astraptes Hübner, 1819",ITIS
+113,Astraptes sp.,"Astraptes Hübner, 1819",GBIF Backbone Taxonomy
+114,Athesis claerista,"Athesis clearista Doubleday, 1847",GBIF Backbone Taxonomy
+115,Athesis clearista,"Athesis clearista Doubleday, 1847",GBIF Backbone Taxonomy
+116,Autochton bipunctatus,"Autochton bipunctatus Gmelin, 1790",GBIF Backbone Taxonomy
+117,Autochton neis,"Autochton neis Geyer, 1832",GBIF Backbone Taxonomy
+118,Baeotis zonata,"Baeotis zonata Felder, 1869",GBIF Backbone Taxonomy
+119,Battus polydamas,"Battus polydamas (Linnaeus, 1758)",ITIS
+120,Battus polydamas,"Battus polydamas (Linnaeus, 1758)",GBIF Backbone Taxonomy
+121,Biblis hyperia,"Biblis hyperia (Cramer, 1779)",ITIS
+122,Biblis hyperia,"Biblis hyperia (Cramer, 1779)",GBIF Backbone Taxonomy
+123,Brangas getus,"Brangas Hübner, 1819",GBIF Backbone Taxonomy
+124,Brassolis isthmia,"Brassolis isthmia Bates, 1864",GBIF Backbone Taxonomy
+125,Bungalotis astylos,"Bungalotis astylos Cramer, 1780",GBIF Backbone Taxonomy
+126,Bungalotis midas,"Bungalotis midas Cramer, 1775",GBIF Backbone Taxonomy
+127,Calephelis inca,"Calephelis inca McAlpine, 1971",GBIF Backbone Taxonomy
+128,Calephelis laverna,"Calephelis laverna Godman & Salvin, 1886",GBIF Backbone Taxonomy
+129,Calephelis muticum,"Calephelis muticum McAlpine, 1937",ITIS
+130,Calephelis muticum,"Calephelis muticum McAlpine, 1937",GBIF Backbone Taxonomy
+131,Caligo brasiliensis,"Caligo brasiliensis Felder, 1862",GBIF Backbone Taxonomy
+132,Caligo eurilochus,"Caligo eurilochus Cramer, 1776",GBIF Backbone Taxonomy
+133,Caligo illioneus,"Caligo illioneus Cramer, 1776",GBIF Backbone Taxonomy
+134,Caligo oileus,"Caligo oileus Felder, 1861",GBIF Backbone Taxonomy
+135,Caligo prometheus,"Caligo prometheus Kollar, 1849",GBIF Backbone Taxonomy
+136,Caligo telamonius,"Caligo telamonius Felder, 1862",GBIF Backbone Taxonomy
+137,Callicore brome,"Callicore Hübner, 1819",GBIF Backbone Taxonomy
+138,Callicore brome,"Callicore Link, 1829",GBIF Backbone Taxonomy
+139,Callicore pitheas,"Callicore Hübner, 1819",GBIF Backbone Taxonomy
+140,Callicore pitheas,"Callicore Link, 1829",GBIF Backbone Taxonomy
+141,Callimormus saturnus,"Callimormus saturnus (Herrich-Schäffer, 1869)",ITIS
+142,Callimormus saturnus,"Callimormus saturnus Herrich-Schäffer, 1869",GBIF Backbone Taxonomy
+143,Calospila lucianus,"Calospila Herrich-Schäffer, 1855",GBIF Backbone Taxonomy
+144,Calospila lucianus,"Calospila Geyer in Hübner, 1832",GBIF Backbone Taxonomy
+145,Calpodes ethlius,"Calpodes ethlius (Stoll, 1782)",ITIS
+146,Calpodes ethlius,"Calpodes ethlius Stoll, 1782",GBIF Backbone Taxonomy
+147,Calycopis bellera,"Calycopis bellera Hewitson, 1877",GBIF Backbone Taxonomy
+148,Calycopis beon,Calycopis beon Hübner,GBIF Backbone Taxonomy
+149,Calycopis demonassa,"Calycopis Scudder, 1876",ITIS
+150,Calycopis demonassa,"Calycopis Scudder, 1876",GBIF Backbone Taxonomy
+151,Calycopis isoben,"Calycopis isobeon (Butler and H. Druce, 1872)",ITIS
+152,Calycopis isoben,"Calycopis isobeon Butler & Druce, 1872",GBIF Backbone Taxonomy
+153,Calycopis isobeon,"Calycopis isobeon (Butler and H. Druce, 1872)",ITIS
+154,Calycopis isobeon,"Calycopis isobeon Butler & Druce, 1872",GBIF Backbone Taxonomy
+155,Calycopis sp.,"Calycopis Scudder, 1876",ITIS
+156,Calycopis sp.,"Calycopis Scudder, 1876",GBIF Backbone Taxonomy
+157,Calycopis xeneta,"Calycopis xeneta Hewitson, 1877",GBIF Backbone Taxonomy
+158,Calydna lusca,"Calydna lusca Geyer, 1826",GBIF Backbone Taxonomy
+159,Camptopleura auxo,"Camptopleura auxo Möschler, 1878",GBIF Backbone Taxonomy
+160,Caria mantinea,"Caria mantinea Felder, 1861",GBIF Backbone Taxonomy
+161,Carrhenes sp.,"Carrhenes Godman and Salvin, 1895",ITIS
+162,Carrhenes sp.,"Carrhenes Godman & Salvin, 1895",GBIF Backbone Taxonomy
+163,Castilia ofella,"Castilia ofella Hewitson, 1864",GBIF Backbone Taxonomy
+164,Catanepheles numilia,"Catonephele numilia Cramer, 1779",GBIF Backbone Taxonomy
+165,Catasticta aff manco,"Catasticta Butler, 1870",ITIS
+166,Catasticta aff manco,"Catasticta Butler, 1870",GBIF Backbone Taxonomy
+167,Catasticta flisa,"Catasticta flisa (Herrich-Schäffer, 1858)",GBIF Backbone Taxonomy
+168,Catasticta manco,"Catasticta manco (Doubleday, 1848)",GBIF Backbone Taxonomy
+169,Catasticta prioneris,"Catasticta prioneris (Hopffer, 1874)",GBIF Backbone Taxonomy
+170,Catasticta punctata,"Catasticta punctata Lathy & Rosenberg, 1912",GBIF Backbone Taxonomy
+171,Catasticta seitzi,"Catasticta seitzi Lathy & Rosenberg, 1912",GBIF Backbone Taxonomy
+172,Catasticta sisamnus,"Catasticta sisamnus (Fabricius, 1793)",GBIF Backbone Taxonomy
+173,Catasticta sp.,"Catasticta Butler, 1870",ITIS
+174,Catasticta sp.,"Catasticta Butler, 1870",GBIF Backbone Taxonomy
+175,Catoblepia xanthicles,"Catoblepia xanthicles Godman & Salvin, 1881",GBIF Backbone Taxonomy
+176,Catonephele chromis,"Catonephele chromis Doubleday, 1848",GBIF Backbone Taxonomy
+177,Catonephele humilia,"Catonephele numilia Cramer, 1779",GBIF Backbone Taxonomy
+178,Catonephele numilia,"Catonephele numilia Cramer, 1779",GBIF Backbone Taxonomy
+179,Catonephele nyctimus,"Catonephele nyctimus Westwood, 1850",GBIF Backbone Taxonomy
+180,Celaenorrhinus eligius,"Celaenorrhinus eligius Stoll, 1782",GBIF Backbone Taxonomy
+181,Celaenorrhinus shema,"Celaenorrhinus shema Hewitson, 1877",GBIF Backbone Taxonomy
+182,Celaenorrhinus sp.,"Celaenorrhinus Hübner, 1819",ITIS
+183,Celaenorrhinus sp.,"Celaenorrhinus Hübner, 1819",GBIF Backbone Taxonomy
+184,Ceratinia tutia,"Ceratinia tutia Hewitson, 1852",GBIF Backbone Taxonomy
+185,Charis anius,"Charis anius Cramer, 1776",GBIF Backbone Taxonomy
+186,Chimastrum argentea,"Chimastrum argentea Bates, 1866",GBIF Backbone Taxonomy
+187,Chioides catillus,"Chioides catillus (Cramer, 1780)",ITIS
+188,Chioides catillus,"Chioides catillus Cramer, 1779",GBIF Backbone Taxonomy
+189,Chiomara asychis,"Chiomara asychis (Stoll in Cramer, 1780)",ITIS
+190,Chiomara asychis,"Chiomara asychis Stoll, 1780",GBIF Backbone Taxonomy
+191,Chiomara sp.,"Chiomara Godman and Salvin, 1899",ITIS
+192,Chiomara sp.,"Chiomara Godman & Salvin, 1899",GBIF Backbone Taxonomy
+193,Chlorostrymon simaethis,"Chlorostrymon simaethis (Drury, 1773)",ITIS
+194,Chlorostrymon simaethis,"Chlorostrymon simaethis Drury, 1773",GBIF Backbone Taxonomy
+195,Chlorostrymon telea,"Chlorostrymon telea (Hewitson, 1868)",ITIS
+196,Chlorostrymon telea,"Chlorostrymon telea Hewitson, 1868",GBIF Backbone Taxonomy
+197,Chlosyne iacinia,"Chlosyne lacinia (Geyer, 1837)",ITIS
+198,Chlosyne iacinia,"Chlosyne lacinia Geyer, 1837",GBIF Backbone Taxonomy
+199,Chlosyne lacina,"Chlosyne lacinia (Geyer, 1837)",ITIS
+200,Chlosyne lacina,"Chlosyne lacinia Geyer, 1837",GBIF Backbone Taxonomy
+201,Chlosyne lacinia,"Chlosyne lacinia (Geyer, 1837)",ITIS
+202,Chlosyne lacinia,"Chlosyne lacinia Geyer, 1837",GBIF Backbone Taxonomy
+203,Chlosyne narva,"Chlosyne narva Fabricius, 1793",GBIF Backbone Taxonomy
+204,Chlosyne theona,"Chlosyne theona (Ménétriés, 1855)",ITIS
+205,Chlosyne theona,"Chlosyne theona (Ménétriés, 1855)",GBIF Backbone Taxonomy
+206,Cissia confusa,"Cissia Doubleday, 1848",GBIF Backbone Taxonomy
+207,Cissia penelope,"Cissia Doubleday, 1848",GBIF Backbone Taxonomy
+208,Cissia pompilia,"Cissia Doubleday, 1848",GBIF Backbone Taxonomy
+209,Cissia similis,"Cissia Doubleday, 1848",GBIF Backbone Taxonomy
+210,Cissia sp.,"Cissia Doubleday, 1848",GBIF Backbone Taxonomy
+211,Cissia terrestris,"Cissia Doubleday, 1848",GBIF Backbone Taxonomy
+212,Cissia ucumariensis,"Cissia Doubleday, 1848",GBIF Backbone Taxonomy
+213,Cobalopsis sp.,"Cobalopsis Godman, 1900",GBIF Backbone Taxonomy
+214,Codatractus melon,"Codatractus melon (Godman and Salvin, 1893)",ITIS
+215,Codatractus melon,"Codatractus melon Godman & Salvin, 1893",GBIF Backbone Taxonomy
+216,Cogia calchas,"Cogia calchas (Herrich-Schäffer, 1869)",ITIS
+217,Cogia calchas,"Cogia calchas (Herrich-Schäffer, 1869)",GBIF Backbone Taxonomy
+218,Cogia sp.,"Cogia Butler, 1870",ITIS
+219,Cogia sp.,"Cogia Wallace, 1876",ITIS
+220,Cogia sp.,"Cogia Butler, 1870",GBIF Backbone Taxonomy
+221,Cogia sp.,"Cogia Wallace, 1876",GBIF Backbone Taxonomy
+222,Colias dimera,"Colias dimera Doubleday, 1847",GBIF Backbone Taxonomy
+223,Colobura dirce,"Colobura dirce Linnaeus, 1764",GBIF Backbone Taxonomy
+224,Consul fabius,"Consul fabius Cramer, 1779",GBIF Backbone Taxonomy
+225,Corades chelonis,"Corades chelonis Hewitson, 1863",GBIF Backbone Taxonomy
+226,Corades enyo,"Corades enyo Hewitson, 1848",GBIF Backbone Taxonomy
+227,Corades medeba,"Corades medeba Hewitson, 1850",GBIF Backbone Taxonomy
+228,Corades pannonia,"Corades pannonia Hewitson, 1850",GBIF Backbone Taxonomy
+229,Cremna thasus,"Cremna thasus Stoll, 1780",GBIF Backbone Taxonomy
+230,Crocozona pheretima,"Crocozona pheretima Felder, 1865",GBIF Backbone Taxonomy
+231,Cupido comyntas,"Cupido comyntas (Godart, 1824)",ITIS
+232,Cupido comyntas,"Cupido comyntas (Godart, 1824)",GBIF Backbone Taxonomy
+233,Cyanophrys herodotus,"Cyanophrys herodotus (Fabricius, 1793)",ITIS
+234,Cyanophrys herodotus,"Cyanophrys herodotus (Fabricius, 1793)",GBIF Backbone Taxonomy
+235,Cybdelis mnasylus,"Cybdelis mnasylus Doubleday, 1848",GBIF Backbone Taxonomy
+236,Cymatogramma austrina,"Cymatogramma Doubleday, 1849",GBIF Backbone Taxonomy
+237,Cynthia braziliensis,"Cynthia braziliensis Moore, 1883",GBIF Backbone Taxonomy
+238,Dalla  sp.,"Dalla Mabille, 1904",GBIF Backbone Taxonomy
+239,Dalla sp.,"Dalla Mabille, 1904",GBIF Backbone Taxonomy
+241,Danaus eresimus,"Danaus eresimus (Cramer, 1777)",ITIS
+242,Danaus eresimus,"Danaus eresimus Cramer, 1777",GBIF Backbone Taxonomy
+243,Danaus gilippus,"Danaus gilippus (Cramer, 1775)",ITIS
+244,Danaus gilippus,"Danaus gilippus Cramer, 1775",GBIF Backbone Taxonomy
+245,Danaus plexippus,"Danaus plexippus (Linnaeus, 1758)",ITIS
+246,Danaus plexippus,"Danaus plexippus Linnaeus, 1758",GBIF Backbone Taxonomy
+247,Detritivora caryatis,"Detritivora Hall & Harvey, 2002",GBIF Backbone Taxonomy
+248,Detritivora gynaea,"Detritivora Hall & Harvey, 2002",GBIF Backbone Taxonomy
+249,Detritivora sp.,"Detritivora Hall & Harvey, 2002",GBIF Backbone Taxonomy
+250,Diaethria aletiscus,"Diaethria Billberg, 1820",GBIF Backbone Taxonomy
+251,Diaethria astala,"Diaethria astala Guérin-Méneville, 1844",GBIF Backbone Taxonomy
+252,Diaethria clymena,"Diaethria clymena Cramer, 1775",GBIF Backbone Taxonomy
+253,Diaethria euclides,"Diaethria euclides Latreille, 1811",GBIF Backbone Taxonomy
+254,Diaethria nystographa,"Diaethria nystographa Guenée, 1872",GBIF Backbone Taxonomy
+255,Dione glycera,"Dione glycera Felder & Felder, 1861",GBIF Backbone Taxonomy
+256,Dione iulia,"Dione Hübner, 1819",ITIS
+257,Dione iulia,"Dione Gray, 1847",GBIF Backbone Taxonomy
+258,Dione iulia,"Dione Hübner, 1819",GBIF Backbone Taxonomy
+259,Dione iulia,"Dione Barrande, 1846",GBIF Backbone Taxonomy
+260,Dione iulia,"Dione De Haan in Siebold, 1839",GBIF Backbone Taxonomy
+261,Dione juno,"Dione juno Cramer, 1779",GBIF Backbone Taxonomy
+262,Dircenna dero,"Dircenna dero Hübner, 1823",GBIF Backbone Taxonomy
+263,Dircenna jemina,"Dircenna jemina Geyer, 1837",GBIF Backbone Taxonomy
+264,Dismorphia crisia,"Dismorphia crisia (Drury, 1782)",GBIF Backbone Taxonomy
+266,Dismorphia eleusis,Dismorphia eleusis,GBIF Backbone Taxonomy
+267,Dismorphia hyposticta,"Dismorphia hyposticta (Felder & Felder, 1861)",GBIF Backbone Taxonomy
+268,Dismorphia medora,"Dismorphia medora (Doubleday, 1844)",GBIF Backbone Taxonomy
+269,Dismorphia sp.,"Dismorphia Hübner, 1816",GBIF Backbone Taxonomy
+270,Dismorphia zathae,"Dismorphia zathoe (Hewitson, 1858)",GBIF Backbone Taxonomy
+271,Dismorphia zathoe,"Dismorphia zathoe (Hewitson, 1858)",GBIF Backbone Taxonomy
+272,Doxocopa elis,"Doxocopa elis Felder, 1861",GBIF Backbone Taxonomy
+273,Doxocopa pavon,"Doxocopa pavon (Latreille, 1809)",ITIS
+274,Doxocopa pavon,"Doxocopa pavon (Latreille, 1809)",GBIF Backbone Taxonomy
+275,Doxocopa sp.,"Doxocopa Hübner, 1819",ITIS
+276,Doxocopa sp.,"Doxocopa Hübner, 1819",GBIF Backbone Taxonomy
+277,Dryadula phaetusa,"Dryadula phaetusa (Linnaeus, 1758)",ITIS
+278,Dryadula phaetusa,"Dryadula phaetusa Linnaeus, 1758",GBIF Backbone Taxonomy
+279,Dryas iulia,"Dryas iulia (Fabricius, 1775)",ITIS
+280,Dryas iulia,"Dryas iulia Fabricius, 1775",GBIF Backbone Taxonomy
+281,Duboisvalia simulans,"Duboisvalia simulans Boisduval, 1875",GBIF Backbone Taxonomy
+282,Dynamine agacles,"Dynamine agacles Dalman, 1823",GBIF Backbone Taxonomy
+283,Dynamine arene,"Dynamine arene Hübner, 1816/24",GBIF Backbone Taxonomy
+284,Dynamine artemisa,"Dynamine artemesia Fabricius, 1793",GBIF Backbone Taxonomy
+285,Dynamine colombiana,"Dynamine colombiana Talbot, 1932",GBIF Backbone Taxonomy
+286,Dynamine milyta,"Dynamine Hübner, 1819",ITIS
+287,Dynamine milyta,"Dynamine Hübner, 1819",GBIF Backbone Taxonomy
+288,Dynamine mylitta,"Dynamine mylitta (Cramer, 1779)",ITIS
+289,Dynamine mylitta,"Dynamine mylitta Cramer, 1782",GBIF Backbone Taxonomy
+290,Dynamine paulina,"Dynamine paulina Bates, 1865",GBIF Backbone Taxonomy
+291,Dynamine postverta,"Dynamine postverta (Cramer, 1779)",ITIS
+292,Dynamine postverta,"Dynamine postverta (Cramer, 1779)",GBIF Backbone Taxonomy
+293,Dynamine racidula,"Dynamine racidula Hewitson, 1852",GBIF Backbone Taxonomy
+294,Dynamine theseus,"Dynamine theseus Felder, 1861",GBIF Backbone Taxonomy
+295,Dynamine tithia,"Dynamine tithia (Hübner, 1823)",ITIS
+296,Dynamine tithia,"Dynamine tithia Hübner, 1823",GBIF Backbone Taxonomy
+297,Dynastor darius,"Dynastor darius Fabricius, 1775",GBIF Backbone Taxonomy
+298,Ebrietas anacreon,"Ebrietas anacreon Staudinger, 1876",GBIF Backbone Taxonomy
+299,Echinargus huntingtoni,"Echinargus huntingtoni Rindge & Comstock, 1953",GBIF Backbone Taxonomy
+300,Ectima thecla,"Ectima Doubleday in Doubleday & Westwood, 1848",GBIF Backbone Taxonomy
+301,Electrostrymon sanfgala,"Electrostrymon sangala (Hewitson, 1868)",ITIS
+302,Electrostrymon sanfgala,"Electrostrymon sangala (Hewitson, 1868)",GBIF Backbone Taxonomy
+303,Electrostrymon sangala,"Electrostrymon sangala (Hewitson, 1868)",ITIS
+304,Electrostrymon sangala,"Electrostrymon sangala (Hewitson, 1868)",GBIF Backbone Taxonomy
+305,Elzunia humboldtii,"Elzunia humboldtii Latreille, 1811-, 1819",GBIF Backbone Taxonomy
+306,Elzunia pavonii,"Elzunia pavonii Doubleday, Hewitson & Westwood, 1847",GBIF Backbone Taxonomy
+307,Emesis brimo,"Emesis brimo Godman & Salvin, 1889",GBIF Backbone Taxonomy
+308,Emesis cipria,"Emesis cypria Felder, 1861",GBIF Backbone Taxonomy
+309,Emesis fatimella,"Emesis fatimella Westwood, 1851",GBIF Backbone Taxonomy
+310,Emesis glaucenscens,"Emesis glaucescens Talbot, 1929",GBIF Backbone Taxonomy
+311,Emesis ocypore,"Emesis ocypore Geyer, 1837",GBIF Backbone Taxonomy
+312,Enantia citrinela,"Enantia citrinella (Felder & Felder, 1861)",GBIF Backbone Taxonomy
+313,Enantia melite,"Enantia melite (Linnaeus, 1763)",GBIF Backbone Taxonomy
+314,Epargyreus exadeus,"Epargyreus exadeus (Cramer, 1779)",ITIS
+315,Epargyreus exadeus,"Epargyreus exadeus Cramer, 1779",GBIF Backbone Taxonomy
+316,Epargyreus spina,"Epargyreus spina Evans, 1952",GBIF Backbone Taxonomy
+317,Epiphile epimenes,"Epiphile epimenes Hewitson, 1857",GBIF Backbone Taxonomy
+318,Episcada hymenaea,"Episcada Godman & Salvin, 1879",GBIF Backbone Taxonomy
+319,Episcada salvinia,"Episcada salvinia Bates, 1864",GBIF Backbone Taxonomy
+320,Eresia alsina,"Eresia alsina Hewitson, 1869",GBIF Backbone Taxonomy
+321,Eresia clio,Eresia clio Auct.,GBIF Backbone Taxonomy
+322,Eresia polina,"Eresia polina Hewitson, 1852",GBIF Backbone Taxonomy
+323,Eretris ocellifera,"Eretris ocellifera Felder, 1867",GBIF Backbone Taxonomy
+324,Eretris perija,"Eretris perija Adams & Bernard, 1979",GBIF Backbone Taxonomy
+325,Eretris porphyria,"Eretris porphyria Felder, 1867",GBIF Backbone Taxonomy
+326,Erora carla,"Erora Scudder, 1872",ITIS
+327,Erora carla,"Erora Scudder, 1872",GBIF Backbone Taxonomy
+328,Eryphanis automedon,"Eryphanis automedon Cramer, 1775, 1776",GBIF Backbone Taxonomy
+329,Eryphanis lycomedon,"Eryphanis lycomedon Felder, 1862",GBIF Backbone Taxonomy
+330,Eryphanis polyxena,"Eryphanis polyxena Meerburgh, 1775",GBIF Backbone Taxonomy
+331,Eryphanis sp.,"Eryphanis Boisduval, 1870",GBIF Backbone Taxonomy
+332,Esthemopsis clonia,"Esthemopsis clonia Felder, 1865",GBIF Backbone Taxonomy
+333,Eueides aliphera,"Eueides Hübner, 1816",ITIS
+334,Eueides aliphera,"Eueides Hübner, 1816",GBIF Backbone Taxonomy
+335,Eueides aliphera,Eueides,GBIF Backbone Taxonomy
+336,Eueides aliphera,"Eueides Kirkaldy, 1904",GBIF Backbone Taxonomy
+337,Eueides edias,"Eueides edias Hewitson, 1861",GBIF Backbone Taxonomy
+338,Eueides isabella,"Eueides isabella (Stoll, 1781)",ITIS
+339,Eueides isabella,"Eueides isabella Cramer, 1781",GBIF Backbone Taxonomy
+340,Eueides procula,"Eueides procula Doubleday, 1847",GBIF Backbone Taxonomy
+341,Eumaeus aff.toxea,"Eumaeus Hübner, 1819",ITIS
+342,Eumaeus aff.toxea,"Eumaeus Schenkling, 1925",GBIF Backbone Taxonomy
+343,Eumaeus aff.toxea,"Eumaeus Hübner, 1819",GBIF Backbone Taxonomy
+344,Eumaeus aff.toxea,"Eumaeus Koch, 1843",GBIF Backbone Taxonomy
+345,Eumaeus sp.,"Eumaeus Hübner, 1819",ITIS
+346,Eumaeus sp.,"Eumaeus Schenkling, 1925",GBIF Backbone Taxonomy
+347,Eumaeus sp.,"Eumaeus Hübner, 1819",GBIF Backbone Taxonomy
+348,Eumaeus sp.,"Eumaeus Koch, 1843",GBIF Backbone Taxonomy
+349,Eunica monima,"Eunica monima (Stoll, 1782)",ITIS
+350,Eunica monima,"Eunica monima Cramer, 1782",GBIF Backbone Taxonomy
+351,Eunica tatila,"Eunica tatila (Herrich-Schäffer, 1855)",ITIS
+352,Eunica tatila,"Eunica tatila Herrich-Schäffer, 1852/58",GBIF Backbone Taxonomy
+353,Euptoieta hegesia,"Euptoieta hegesia (Cramer, 1779)",ITIS
+354,Euptoieta hegesia,"Euptoieta hegesia Cramer, 1779",GBIF Backbone Taxonomy
+355,Euptychia aliciae,"Euptychia aliciae Hayward, 1957",GBIF Backbone Taxonomy
+356,Euptychia historie,Euptychia historie Staudinger,GBIF Backbone Taxonomy
+357,Euptychia lybie,"Euptychia Of Authors (not Hübner, 1818)",ITIS
+358,Euptychia lybie,"Euptychia Hübner, 1818",ITIS
+359,Euptychia lybie,"Euptychia Hübner, 1818",GBIF Backbone Taxonomy
+360,Euptychia lybie,"Euptychia Crosse & Fischer, 1873",GBIF Backbone Taxonomy
+361,Euptychia sp.,"Euptychia Of Authors (not Hübner, 1818)",ITIS
+362,Euptychia sp.,"Euptychia Hübner, 1818",ITIS
+363,Euptychia sp.,"Euptychia Hübner, 1818",GBIF Backbone Taxonomy
+364,Euptychia sp.,"Euptychia Crosse & Fischer, 1873",GBIF Backbone Taxonomy
+365,Euptychia westwoodi,"Euptychia Of Authors (not Hübner, 1818)",ITIS
+366,Euptychia westwoodi,"Euptychia Hübner, 1818",ITIS
+367,Euptychia westwoodi,"Euptychia Hübner, 1818",GBIF Backbone Taxonomy
+368,Euptychia westwoodi,"Euptychia Crosse & Fischer, 1873",GBIF Backbone Taxonomy
+369,Euptychoides griphe,"Euptychoides griphe Felder, 1867",GBIF Backbone Taxonomy
+370,Euptychoides satumus,"Euptychoides saturnus Butler, 1866",GBIF Backbone Taxonomy
+371,Euptychoides saturnus,"Euptychoides saturnus Butler, 1866",GBIF Backbone Taxonomy
+372,Euptychoides sp.,"Euptychoides Forster, 1964",GBIF Backbone Taxonomy
+373,Eurema albula,"Eurema albula (Cramer, 1775)",ITIS
+374,Eurema albula,"Eurema albula (Cramer, 1775)",GBIF Backbone Taxonomy
+375,Eurema arbela,"Eurema arbela Geyer, 1832",GBIF Backbone Taxonomy
+376,Eurema daira,"Eurema daira (Godart, 1819)",ITIS
+377,Eurema daira,"Eurema daira (Godart, 1819)",GBIF Backbone Taxonomy
+380,Eurema daria,"Eurema daira (Godart, 1819)",ITIS
+381,Eurema daria,"Eurema daira (Godart, 1819)",GBIF Backbone Taxonomy
+382,Eurema elathea,"Eurema elathea (Cramer, 1777)",GBIF Backbone Taxonomy
+383,Eurema gratiosa,"Eurema gratiosa Doubleday, 1847",GBIF Backbone Taxonomy
+384,Eurema mexicana,"Eurema mexicana (Boisduval, 1836)",ITIS
+385,Eurema mexicana,"Eurema mexicana (Boisduval, 1836)",GBIF Backbone Taxonomy
+386,Eurema phiale,"Eurema phiale (Cramer, 1775)",GBIF Backbone Taxonomy
+387,Eurema philae,"Eurema phiale (Cramer, 1775)",GBIF Backbone Taxonomy
+388,Eurema proterpia,"Eurema proterpia (Fabricius, 1775)",ITIS
+389,Eurema proterpia,"Eurema proterpia (Fabricius, 1775)",GBIF Backbone Taxonomy
+390,Eurema salome,"Eurema salome (C. Felder and R. Felder, 1861)",ITIS
+391,Eurema salome,"Eurema salome (Felder & Felder, 1861)",GBIF Backbone Taxonomy
+392,Eurema sp.,"Eurema Hübner, 1819",ITIS
+393,Eurema sp.,"Eurema Abeille, 1894",GBIF Backbone Taxonomy
+394,Eurema sp.,"Eurema Hübner, 1819",GBIF Backbone Taxonomy
+395,Eurema sp.,"Eurema MacCallum, 1918",GBIF Backbone Taxonomy
+396,Eurema sp.,"Eurema Doubleday in Doubleday & Westwood, 1848",GBIF Backbone Taxonomy
+397,Eurema venusta,"Eurema venusta Boisduval, 1836",GBIF Backbone Taxonomy
+398,Eurema xanthochlora,"Eurema xanthochlora Kollar, 1850",GBIF Backbone Taxonomy
+399,Eurema xantochlora,"Eurema xantochlora (Kollar, 1850)",GBIF Backbone Taxonomy
+400,Eurema xantoclora,"Eurema xantochlora (Kollar, 1850)",GBIF Backbone Taxonomy
+401,Eurema xantoclora,"Eurema xanthochlora Kollar, 1850",GBIF Backbone Taxonomy
+402,Eurybia dardus,"Eurybia dardus Fabricius, 1787",GBIF Backbone Taxonomy
+404,Eurybia lycisca,"Eurybia lycisca Westwood, 1851",GBIF Backbone Taxonomy
+405,Eurytides dioxippus,"Eurytides dioxippus Hewitson, 1855",GBIF Backbone Taxonomy
+406,Eurytides dolicaon,"Eurytides dolicaon (Cramer, 1775)",GBIF Backbone Taxonomy
+407,Eurytides marchandi,"Eurytides marchandi Boisduval, 1836",GBIF Backbone Taxonomy
+408,Eurytides protesilaus,"Eurytides protesilaus Linnaeus, 1758",GBIF Backbone Taxonomy
+409,Eurytides serville,"Eurytides serville (Godart, 1824)",GBIF Backbone Taxonomy
+410,Eurytides sp.,"Eurytides Hübner, 1821",ITIS
+411,Eurytides sp.,"Eurytides (Neographium) Möhn, 2002",ITIS
+412,Eurytides sp.,"Eurytides Hübner, 1821",GBIF Backbone Taxonomy
+413,Euselasia sp.,"Euselasia Hübner, 1819",GBIF Backbone Taxonomy
+414,Evenus coronata,"Evenus Hübner, 1819",GBIF Backbone Taxonomy
+415,Evenus coronata,"Evenus de Laporte, 1836",GBIF Backbone Taxonomy
+416,Evenus coronata,"Evenus Paetel, 1875",GBIF Backbone Taxonomy
+417,Evenus coronata,"Evenus Simon, 1877",GBIF Backbone Taxonomy
+418,Fountainea fumata,"Fountainea Rydon, 1971",GBIF Backbone Taxonomy
+419,Fountainea halice,"Fountainea Rydon, 1971",GBIF Backbone Taxonomy
+420,Fountainea nessus,"Fountainea Rydon, 1971",GBIF Backbone Taxonomy
+421,Fountainea sp.,"Fountainea Rydon, 1971",GBIF Backbone Taxonomy
+422,Ganyra josephina,"Ganyra josephina (Godart, 1819)",ITIS
+423,Ganyra josephina,"Ganyra josephina (Godart, 1819)",GBIF Backbone Taxonomy
+426,Ganyra phaloe,"Ganyra phaloe (Godart, 1819)",GBIF Backbone Taxonomy
+427,Glutophrissa drusilla,"Glutophrissa drusilla (Cramer, 1779)",ITIS
+428,Glutophrissa drusilla,"Glutophrissa drusilla (Cramer, 1777)",GBIF Backbone Taxonomy
+429,Gnathotriche exclamationis,"Gnathotriche exclamationis Koll, 1850",GBIF Backbone Taxonomy
+430,Godyris sp.,"Godyris Boisduval, 1870",GBIF Backbone Taxonomy
+431,Godyris zavaleta,"Godyris zavaleta Hewitson, 1854",GBIF Backbone Taxonomy
+432,Gorgythion begga,"Gorgythion begga (Prittwitz, 1868)",ITIS
+433,Gorgythion begga,"Gorgythion begga Prittwitz, 1868",GBIF Backbone Taxonomy
+434,Gorgythion beggina,"Gorgythion beggina Mabille, 1897",GBIF Backbone Taxonomy
+435,Greta andromica,"Greta andromica Hewitson, 1854",GBIF Backbone Taxonomy
+436,Greta libethris,"Greta libethris Felder & Felder, 1865",GBIF Backbone Taxonomy
+437,Hades noctula,"Hades noctula Westwood, 1851",GBIF Backbone Taxonomy
+438,Haematera pyrame,"Haematera Doubleday in Doubleday & Westwood, 1849",GBIF Backbone Taxonomy
+439,Hamadryas amphichloe,"Hamadryas amphichloe (Boisduval, 1870)",ITIS
+440,Hamadryas amphichloe,"Hamadryas amphichloe (Boisduval, 1870)",GBIF Backbone Taxonomy
+441,Hamadryas amphinome,"Hamadryas amphinome (Linnaeus, 1767)",ITIS
+442,Hamadryas amphinome,"Hamadryas amphinome Linnaeus, 1767",GBIF Backbone Taxonomy
+443,Hamadryas arinome,"Hamadryas arinome Lucas, 1853",GBIF Backbone Taxonomy
+444,Hamadryas fabrua,"Hamadryas februa (Hübner, 1823)",ITIS
+445,Hamadryas fabrua,"Hamadryas februa Hübner, 1816/24",GBIF Backbone Taxonomy
+446,Hamadryas februa,"Hamadryas februa (Hübner, 1823)",ITIS
+447,Hamadryas februa,"Hamadryas februa Hübner, 1816/24",GBIF Backbone Taxonomy
+448,Hamadryas feronia,"Hamadryas feronia (Linnaeus, 1758)",ITIS
+449,Hamadryas feronia,"Hamadryas feronia Linnaeus, 1758",GBIF Backbone Taxonomy
+450,Hamadryas fornax,"Hamadryas fornax (Hübner, 1823)",ITIS
+451,Hamadryas fornax,"Hamadryas fornax Hübner, 1816-, 1824",GBIF Backbone Taxonomy
+452,Hamadryas sp,"Hamadryas Hübner, 1806",ITIS
+453,Hamadryas sp,"Hamadryas Lesson, 1840",ITIS
+454,Hamadryas sp,"Hamadryas Commerson ex A.L. Jussieu, 1789",GBIF Backbone Taxonomy
+455,Hamadryas sp,"Hamadryas Lesson, 1840",GBIF Backbone Taxonomy
+456,Hamadryas sp,"Hamadryas Hübner, 1806",GBIF Backbone Taxonomy
+457,Hamadryas sp,"Hamadryas Clemens, 1864",GBIF Backbone Taxonomy
+458,Hamadryas sp,"Hamadryas Albers, 1850",GBIF Backbone Taxonomy
+459,Hamadryas sp,"Hamadryas Cantor, 1838",GBIF Backbone Taxonomy
+460,Hamadryas sp.,"Hamadryas Hübner, 1806",ITIS
+461,Hamadryas sp.,"Hamadryas Lesson, 1840",ITIS
+462,Hamadryas sp.,"Hamadryas Commerson ex A.L. Jussieu, 1789",GBIF Backbone Taxonomy
+463,Hamadryas sp.,"Hamadryas Lesson, 1840",GBIF Backbone Taxonomy
+464,Hamadryas sp.,"Hamadryas Hübner, 1806",GBIF Backbone Taxonomy
+465,Hamadryas sp.,"Hamadryas Clemens, 1864",GBIF Backbone Taxonomy
+466,Hamadryas sp.,"Hamadryas Albers, 1850",GBIF Backbone Taxonomy
+467,Hamadryas sp.,"Hamadryas Cantor, 1838",GBIF Backbone Taxonomy
+468,Haywardina inornata,"Haywardina inornata Felder, 1867",GBIF Backbone Taxonomy
+469,Heliconius anderidae,"Heliconius anderida Hewitson, 1852",GBIF Backbone Taxonomy
+470,Heliconius charithonia,"Heliconius charithonia (Linnaeus, 1767)",ITIS
+471,Heliconius charithonia,"Heliconius charithonia Linnaeus, 1767",GBIF Backbone Taxonomy
+474,Heliconius clysonymus,"Heliconius clysonymus Latreille, 1817",GBIF Backbone Taxonomy
+475,Heliconius congener,"Heliconius congener Weymer & Maasen, 1890",GBIF Backbone Taxonomy
+476,Heliconius cydno,"Heliconius cydno Doubleday, 1847",GBIF Backbone Taxonomy
+477,Heliconius erato,"Heliconius erato (Linnaeus, 1758)",ITIS
+478,Heliconius erato,"Heliconius erato Linnaeus, 1758",GBIF Backbone Taxonomy
+479,Heliconius ethilla,"Heliconius ethilla Latreille & Godart, 1819",GBIF Backbone Taxonomy
+481,Heliconius hecale,"Heliconius hecale Fabricius, 1775",GBIF Backbone Taxonomy
+482,Heliconius hecalesia,"Heliconius hecalesia Hewitson, 1853",GBIF Backbone Taxonomy
+483,Heliconius melpomene,"Heliconius melpomene Linnaeus, 1758",GBIF Backbone Taxonomy
+484,Heliconius melponeme,"Heliconius melpomene Linnaeus, 1758",GBIF Backbone Taxonomy
+485,Heliconius sapho,"Heliconius sapho Drury, 1782",GBIF Backbone Taxonomy
+486,Heliconius sara,"Heliconius sara Fabricius, 1793",GBIF Backbone Taxonomy
+488,Heliconius sp.,"Heliconius Kluk, 1780",ITIS
+489,Heliconius sp.,"Heliconius Kluk, 1802",GBIF Backbone Taxonomy
+490,Heliopetes alana,"Heliopetes alana Reakirt, 1868",GBIF Backbone Taxonomy
+491,Heliopetes arsalte,"Heliopetes arsalte (Linnaeus, 1758)",ITIS
+492,Heliopetes arsalte,"Heliopetes arsalte Linnaeus, 1758",GBIF Backbone Taxonomy
+493,Heliopetes laviana,"Heliopetes laviana (Hewitson, 1868)",ITIS
+494,Heliopetes laviana,"Heliopetes laviana Hewitson, 1868",GBIF Backbone Taxonomy
+495,Heliopetes leca,"Heliopetes leca Butler, 1870",GBIF Backbone Taxonomy
+496,Heliopetes sp.,"Heliopetes Billberg, 1820",ITIS
+497,Heliopetes sp.,"Heliopetes Billberg, 1820",GBIF Backbone Taxonomy
+500,Heliopyrgus domicella,"Heliopyrgus domicella (Erichson, 1849)",ITIS
+501,Heliopyrgus domicella,"Heliopyrgus domicella Erichson, 1848",GBIF Backbone Taxonomy
+502,Hemiargus hanno,"Hemiargus hanno Stoll, 1790",GBIF Backbone Taxonomy
+503,Hemiargus sp.,"Hemiargus Hübner, 1818",ITIS
+504,Hemiargus sp.,"Hemiargus Hübner, 1818",GBIF Backbone Taxonomy
+505,Heraclides anchisiades,"Heraclides Hübner, 1819",ITIS
+506,Heraclides anchisiades,"Heraclides Hübner, 1819",GBIF Backbone Taxonomy
+507,Heraclides androgeus,"Heraclides Hübner, 1819",ITIS
+508,Heraclides androgeus,"Heraclides Hübner, 1819",GBIF Backbone Taxonomy
+509,Heraclides astyalus,"Heraclides Hübner, 1819",ITIS
+510,Heraclides astyalus,"Heraclides Hübner, 1819",GBIF Backbone Taxonomy
+511,Heraclides homothoas,"Heraclides Hübner, 1819",ITIS
+512,Heraclides homothoas,"Heraclides Hübner, 1819",GBIF Backbone Taxonomy
+513,Heraclides paeon,"Heraclides Hübner, 1819",ITIS
+514,Heraclides paeon,"Heraclides Hübner, 1819",GBIF Backbone Taxonomy
+515,Heraclides sp.,"Heraclides Hübner, 1819",ITIS
+516,Heraclides sp.,"Heraclides Hübner, 1819",GBIF Backbone Taxonomy
+517,Heraclides thoas,"Heraclides Hübner, 1819",ITIS
+518,Heraclides thoas,"Heraclides Hübner, 1819",GBIF Backbone Taxonomy
+519,Hermeuptychia harmonia,"Hermeuptychia Forster, 1964",ITIS
+520,Hermeuptychia harmonia,"Hermeuptychia Forster, 1964",GBIF Backbone Taxonomy
+521,Hermeuptychia hermes,"Hermeuptychia hermes (Fabricius, 1775)",ITIS
+522,Hermeuptychia hermes,"Hermeuptychia hermes Fabricius, 1775",GBIF Backbone Taxonomy
+523,Hesperocharis marchalii,"Hesperocharis marchalii (Guérin-Méneville, 1844)",GBIF Backbone Taxonomy
+524,Hesperocharis sp.,"Hesperocharis Felder, 1862",GBIF Backbone Taxonomy
+525,Hillia sp.,"Hillia Grote, 1883",ITIS
+526,Hillia sp.,Hillia Jacq.,ITIS
+527,Hillia sp.,"Hillia N.J. Jacquin, 1760",GBIF Backbone Taxonomy
+528,Hillia sp.,"Hillia Grote, 1883",GBIF Backbone Taxonomy
+529,Hillia sp.,"Hillia De Groot, 1963",GBIF Backbone Taxonomy
+530,Hillia sp.,"Hillia Malloch, 1929",GBIF Backbone Taxonomy
+531,Hillia sp.,"Hillia Boehmer in C.G. Ludwig, 1760",GBIF Backbone Taxonomy
+532,Historis odius,"Historis odius (Fabricius, 1775)",ITIS
+533,Historis odius,"Historis odius Fabricius, 1775",GBIF Backbone Taxonomy
+534,Hyalyris sp.,"Hyalyris Boisduval, 1870",GBIF Backbone Taxonomy
+535,Hylephila phyleus,"Hylephila phyleus (Drury, 1773)",ITIS
+536,Hylephila phyleus,"Hylephila phyleus (Drury, 1773)",GBIF Backbone Taxonomy
+537,Hylephila sp.,"Hylephila Billberg, 1820",ITIS
+538,Hylephila sp.,"Hylephila Rondani, 1877",GBIF Backbone Taxonomy
+539,Hylephila sp.,"Hylephila Billberg, 1820",GBIF Backbone Taxonomy
+540,Hylephila sp.,"Hylephila Masi, 1927",GBIF Backbone Taxonomy
+541,Hypanartia kefersteini,"Hypanartia kefersteini Doubleday, 1847",GBIF Backbone Taxonomy
+542,Hypanartia lethe,"Hypanartia lethe (Fabricius, 1793)",ITIS
+543,Hypanartia lethe,"Hypanartia lethe Fabricius, 1793",GBIF Backbone Taxonomy
+544,Hypna clytemnestra,"Hypna clytemnestra Cramer, 1777",GBIF Backbone Taxonomy
+545,Hypoleria lavinia,"Hypoleria lavinia Hewitson, 1854",GBIF Backbone Taxonomy
+546,Hypoleria ocalea,"Hypoleria ocalea Doubleday, 1847",GBIF Backbone Taxonomy
+547,Hyposcada adelphina,Hyposcada adelphina Bates,GBIF Backbone Taxonomy
+548,Hyposcada illinissa,"Hyposcada illinissa Hewitson, 1852",GBIF Backbone Taxonomy
+549,Hypothyris lycaste,"Hypothyris lycaste Fabricius, 1793",GBIF Backbone Taxonomy
+550,Idioneurula donegani,"Idioneurula Strand, 1932",GBIF Backbone Taxonomy
+551,Idioneurula erebioides,"Idioneurula erebioides Felder, 1867",GBIF Backbone Taxonomy
+552,Idioneurula socorroi,"Idioneurula Strand, 1932",GBIF Backbone Taxonomy
+553,Isapis agirtus,"Isapis Doubleday, 1847",GBIF Backbone Taxonomy
+554,Isapis agirtus,"Isapis H. Adams & A. Adams, 1854",GBIF Backbone Taxonomy
+555,Isapis agyrtus,"Isapis Doubleday, 1847",GBIF Backbone Taxonomy
+556,Isapis agyrtus,"Isapis H. Adams & A. Adams, 1854",GBIF Backbone Taxonomy
+557,Itaballia demophile,"Itaballia demophile (Linnaeus, 1763)",ITIS
+558,Itaballia demophile,"Itaballia demophile (Linnaeus, 1763)",GBIF Backbone Taxonomy
+559,Ithomia agnosia,"Ithomia agnosia Hewitson, 1854",GBIF Backbone Taxonomy
+560,Ithomia dryma,"Ithomia drymo Hübner, 1816",GBIF Backbone Taxonomy
+561,Ithomia drymo,"Ithomia drymo Hübner, 1816",GBIF Backbone Taxonomy
+562,Ithomia iphianassa,"Ithomia iphianassa Doubleday, 1847",GBIF Backbone Taxonomy
+563,Ithomia sp.,"Ithomia Hübner, 1816",GBIF Backbone Taxonomy
+564,Janatella leucodesma,"Janatella leucodesma Felder, 1861",GBIF Backbone Taxonomy
+565,Janthecla cydonia,"Janthecla Robbins & Venables, 1991",GBIF Backbone Taxonomy
+566,Junea dorinde,"Junea dorinde Felder, 1862",GBIF Backbone Taxonomy
+567,Junonia evarete,"Junonia evarete (Cramer, 1779)",ITIS
+568,Junonia evarete,"Junonia evarete Cramer, 1782",GBIF Backbone Taxonomy
+569,Junonia everete,"Junonia evarete (Cramer, 1779)",ITIS
+570,Junonia everete,"Junonia evarete Cramer, 1782",GBIF Backbone Taxonomy
+571,Junonia genoveva,"Junonia genoveva (Cramer, 1780)",ITIS
+572,Junonia genoveva,"Junonia genoveva (Cramer, 1780)",GBIF Backbone Taxonomy
+573,Junonia lavinia,"Junonia lavinia Cramer, 1775",GBIF Backbone Taxonomy
+574,Laparus doris,"Laparus Billberg, 1820",GBIF Backbone Taxonomy
+575,Laparus doris,"Laparus Loew, 1851",GBIF Backbone Taxonomy
+576,Lasaia agelias,"Lasaia agesilas Latreille, 1805",GBIF Backbone Taxonomy
+577,Lasaia agesilas,"Lasaia agesilas Latreille, 1805",GBIF Backbone Taxonomy
+578,Lasiophila zapatoza,"Lasiophila zapatoza Westwood, 1851",GBIF Backbone Taxonomy
+579,Leodonta dysoni,"Leodonta dysoni (Doubleday, 1847)",GBIF Backbone Taxonomy
+580,Leodonta tellane,"Leodonta tellane (Hewitson, 1860)",GBIF Backbone Taxonomy
+581,Leodonta zenobia,"Leodonta zenobia (Felder & Felder, 1865)",GBIF Backbone Taxonomy
+582,Leptophobia aripa,"Leptophobia aripa (Boisduval, 1836)",ITIS
+583,Leptophobia aripa,"Leptophobia aripa (Boisduval, 1836)",GBIF Backbone Taxonomy
+584,Leptophobia caesia,"Leptophobia caesia (Lucas, 1852)",GBIF Backbone Taxonomy
+585,Leptophobia eleone,"Leptophobia eleone (Doubleday, 1847)",GBIF Backbone Taxonomy
+586,Leptophobia eleusis,"Leptophobia eleusis (Lucas, 1852)",GBIF Backbone Taxonomy
+587,Leptophobia penthica,"Leptophobia penthica (Kollar, 1850)",GBIF Backbone Taxonomy
+588,Leptophobia philoma,"Leptophobia philoma (Hewitson, 1870)",GBIF Backbone Taxonomy
+589,Leptophobia sp.,"Leptophobia Butler, 1870",ITIS
+590,Leptophobia sp.,"Leptophobia Butler, 1870",GBIF Backbone Taxonomy
+591,Leptophobia tovaria,"Leptophobia tovaria (Felder & Felder, 1861)",GBIF Backbone Taxonomy
+592,Leptotes cassius,"Leptotes cassius (Cramer, 1775)",ITIS
+593,Leptotes cassius,"Leptotes cassius Cramer, 1775",GBIF Backbone Taxonomy
+594,Leptotes sp.,"Leptotes Scudder, 1876",ITIS
+595,Leptotes sp.,"Leptotes Scudder, 1876",GBIF Backbone Taxonomy
+596,Leptotes sp.,"Leptotes J. Lindley, 1833",GBIF Backbone Taxonomy
+597,Leucochimona sp.,"Leucochimona Stichel, 1909",GBIF Backbone Taxonomy
+598,Leucochimon lagora,"Leucochimona lagora Herrich-Schäffer, 1850",GBIF Backbone Taxonomy
+599,Libytheana cannenta,"Libytheana carinenta (Cramer, 1777)",ITIS
+600,Libytheana cannenta,"Libytheana carinenta Cramer, 1779",GBIF Backbone Taxonomy
+601,Libytheana carinenta,"Libytheana carinenta (Cramer, 1777)",ITIS
+602,Libytheana carinenta,"Libytheana carinenta Cramer, 1779",GBIF Backbone Taxonomy
+603,Lieinix nemesis,"Lieinix nemesis (Latreille, 1813)",GBIF Backbone Taxonomy
+604,Limenitis bredowii,"Limenitis bredowii Hübner, 1837",GBIF Backbone Taxonomy
+605,Limenitis isis,"Limenitis isis Drury, 1782",GBIF Backbone Taxonomy
+606,Lycorea cleobacea,"Lycorea cleobaea (Godart, 1819)",ITIS
+607,Lycorea cleobacea,"Lycorea cleobaea Godart, 1819",GBIF Backbone Taxonomy
+608,Lycorea cleobaea,"Lycorea cleobaea (Godart, 1819)",ITIS
+609,Lycorea cleobaea,"Lycorea cleobaea Godart, 1819",GBIF Backbone Taxonomy
+610,Lycorea halia,"Lycorea halia (Hübner, 1816)",ITIS
+611,Lycorea halia,"Lycorea halia Hübner, 1816",GBIF Backbone Taxonomy
+612,Lymanopoda albocincta,"Lymanopoda albocincta Hewitson, 1861",GBIF Backbone Taxonomy
+613,Lymanopoda obsoleta,"Lymanopoda obsoleta Westwood, 1851",GBIF Backbone Taxonomy
+614,Lymantria sp.,"Lymantria Hübner, 1819",ITIS
+615,Lymantria sp.,"Lymantria Hübner, 1819",GBIF Backbone Taxonomy
+616,Magneuptychia alcinoe,"Magneuptychia Forster, 1964",GBIF Backbone Taxonomy
+617,Magneuptychia libye,"Magneuptychia libye Linnaeus, 1767",GBIF Backbone Taxonomy
+618,Magneuptychia sp.,"Magneuptychia Forster, 1964",GBIF Backbone Taxonomy
+619,Marpesia chiron,"Marpesia chiron (Fabricius, 1775)",ITIS
+620,Marpesia chiron,"Marpesia chiron Fabricius, 1775",GBIF Backbone Taxonomy
+621,Marpesia coresia,"Marpesia coresia (Godart, 1824)",ITIS
+622,Marpesia coresia,"Marpesia coresia Godart, 1824",GBIF Backbone Taxonomy
+623,Marpesia corinna,"Marpesia corinna Latreille, 1811-, 1819",GBIF Backbone Taxonomy
+624,Marpesia petreus,"Marpesia petreus (Cramer, 1776)",ITIS
+625,Marpesia petreus,"Marpesia petreus Cramer, 1776",GBIF Backbone Taxonomy
+626,Marpesia sp.,"Marpesia Hübner, 1818",ITIS
+627,Marpesia sp.,"Marpesia Hübner, 1818",GBIF Backbone Taxonomy
+628,Marpesia sp.,"Marpesia Menge, 1876",GBIF Backbone Taxonomy
+629,Mechanitis doryssus,"Mechanitis doryssus Bates, 1864",GBIF Backbone Taxonomy
+630,Mechanitis hanitis sp.,"Mechanitis Fabricius, 1807",GBIF Backbone Taxonomy
+631,Mechanitis lysimnia,"Mechanitis lysimnia Fabricius, 1793",GBIF Backbone Taxonomy
+632,Mechanitis menapis,"Mechanitis menapis Hewitson, 1855",GBIF Backbone Taxonomy
+633,Mechanitis polymnia,"Mechanitis polymnia Linnaeus, 1758",GBIF Backbone Taxonomy
+634,Mechanitis sp.,"Mechanitis Fabricius, 1807",GBIF Backbone Taxonomy
+635,Megeuptychia sp.,"Megeuptychia Forster, 1964",GBIF Backbone Taxonomy
+636,Melanis electron,"Melanis Hübner, 1819",ITIS
+637,Melanis electron,"Melanis Hübner, 1819",GBIF Backbone Taxonomy
+640,Melanis iarbas,"Melanis Hübner, 1819",ITIS
+641,Melanis iarbas,"Melanis Hübner, 1819",GBIF Backbone Taxonomy
+642,Melanis sp.,"Melanis Hübner, 1819",ITIS
+643,Melanis sp.,"Melanis Hübner, 1819",GBIF Backbone Taxonomy
+644,Melete lycimnia,"Melete lycimnia (Cramer, 1777)",ITIS
+645,Melete lycimnia,"Melete lycimnia (Cramer, 1777)",GBIF Backbone Taxonomy
+646,Melete sp.,"Melete Swainson, 1831",ITIS
+647,Melete sp.,"Melete Swainson, 1831",GBIF Backbone Taxonomy
+648,Mellicta plotina,"Mellicta plotina Braemer, 1861",GBIF Backbone Taxonomy
+649,Memphis aff. pithyusa,"Memphis Hübner, 1819",ITIS
+650,Memphis aff. pithyusa,"Memphis Hübner, 1819",GBIF Backbone Taxonomy
+651,Memphis arachne,"Memphis arachne Fabricius, 1793",GBIF Backbone Taxonomy
+652,Memphis basilia,"Memphis Hübner, 1819",ITIS
+653,Memphis basilia,"Memphis Hübner, 1819",GBIF Backbone Taxonomy
+654,Memphis moruus,"Memphis Hübner, 1819",ITIS
+655,Memphis moruus,"Memphis Hübner, 1819",GBIF Backbone Taxonomy
+656,Memphis morvus,"Memphis morvus Fabricius, 1775",GBIF Backbone Taxonomy
+657,Memphis nessus,"Memphis Hübner, 1819",ITIS
+658,Memphis nessus,"Memphis Hübner, 1819",GBIF Backbone Taxonomy
+659,Memphis oenomais,"Memphis Hübner, 1819",ITIS
+660,Memphis oenomais,"Memphis Hübner, 1819",GBIF Backbone Taxonomy
+661,Memphis pithyusa,"Memphis pithyusa (R. Felder, 1869)",ITIS
+662,Memphis pithyusa,"Memphis pithyusa (R. Felder, 1869)",GBIF Backbone Taxonomy
+663,Memphis pseudiphis,"Memphis pseudiphis Staudinger, 1887",GBIF Backbone Taxonomy
+664,Memphis sp.,"Memphis Hübner, 1819",ITIS
+665,Memphis sp.,"Memphis Hübner, 1819",GBIF Backbone Taxonomy
+666,Mesosemia mevania,"Mesosemia mevania Hewitson, 1857",GBIF Backbone Taxonomy
+667,Mestra dorcas,"Mestra dorcas Fabricius, 1775",ITIS
+668,Mestra dorcas,"Mestra dorcas Fabricius, 1775",GBIF Backbone Taxonomy
+669,Metacharis lucius,"Metacharis lucius Fabricius, 1793",GBIF Backbone Taxonomy
+670,Metacharis victrix,"Metacharis victrix Hewitson, 1870",GBIF Backbone Taxonomy
+671,Microtia elva,"Microtia elva H. Bates, 1864",ITIS
+672,Microtia elva,"Microtia elva Bates, 1864",GBIF Backbone Taxonomy
+673,Mimoides ilus,"Mimoides ilus (Fabricius, 1793)",GBIF Backbone Taxonomy
+674,Mimoides pausanias,"Mimoides pausanias (Hewitson, 1852)",GBIF Backbone Taxonomy
+675,Mimoides phaon,"Mimoides phaon (Boisduval, 1836)",GBIF Backbone Taxonomy
+676,Ministrymon clytie,"Ministrymon clytie (W. H. Edwards, 1877)",ITIS
+677,Ministrymon clytie,"Ministrymon clytie Edwards, 1877",GBIF Backbone Taxonomy
+678,Ministrymon megacles,"Ministrymon Clench, 1961",ITIS
+679,Ministrymon megacles,"Ministrymon Clench, 1961",GBIF Backbone Taxonomy
+680,Ministrymon una,"Ministrymon Clench, 1961",ITIS
+681,Ministrymon una,"Ministrymon Clench, 1961",GBIF Backbone Taxonomy
+682,Moeris striga,"Moeris striga Geyer, 1832",GBIF Backbone Taxonomy
+683,Monca telata,"Monca telata Herrich-Schäffer, 1869",GBIF Backbone Taxonomy
+684,Morpho helenor,"Morpho helenor Cramer, 1782",GBIF Backbone Taxonomy
+686,Morpho heleonor,"Morpho helenor Cramer, 1782",GBIF Backbone Taxonomy
+687,Morpho peleides,"Morpho peleides Kollar, 1850",ITIS
+688,Morpho peleides,"Morpho peleides Kollar, 1850",GBIF Backbone Taxonomy
+689,Morpho pho sp,"Morpho [Fabricius], 1807",ITIS
+690,Morpho pho sp,"Morpho Fabricius, 1807",GBIF Backbone Taxonomy
+691,Morpho pho sp,"Morpho Hübner, 1819",GBIF Backbone Taxonomy
+692,Morpho sp,"Morpho [Fabricius], 1807",ITIS
+693,Morpho sp,"Morpho Fabricius, 1807",GBIF Backbone Taxonomy
+694,Morpho sp,"Morpho Hübner, 1819",GBIF Backbone Taxonomy
+695,Morpho sulkoski,"Morpho sulkowskyi Kollar, 1850",GBIF Backbone Taxonomy
+696,Morpho sulkowskyi,"Morpho sulkowskyi Kollar, 1850",GBIF Backbone Taxonomy
+697,Mygona irmina,"Mygona irmina Doubleday, 1849",GBIF Backbone Taxonomy
+698,Myscelus phoronis,"Myscelus phoronis Hewitson, 1867",GBIF Backbone Taxonomy
+699,Mysoria barcastus,"Mysoria barcastus Sepp, 1855",GBIF Backbone Taxonomy
+700,Napaea beltiana,"Napaea beltiana Bates, 1867",GBIF Backbone Taxonomy
+701,Narope anartes,"Narope anartes Hewitson, 1874",GBIF Backbone Taxonomy
+702,Narope cyllabarus,"Narope cyllabarus Westwood, 1851",GBIF Backbone Taxonomy
+703,Nathalis plauta,"Nathalis plauta Doubleday, 1847",GBIF Backbone Taxonomy
+704,Necyria bellona,"Necyria bellona Westwood, 1851",GBIF Backbone Taxonomy
+705,Nica flavilla,"Nica flavilla Godart, 1823",GBIF Backbone Taxonomy
+707,Nicolaea sp.,"Nicolaea Johnson, 1993",GBIF Backbone Taxonomy
+708,Nicolaea sp.,"Nicolaea McIntosh, 1869",GBIF Backbone Taxonomy
+709,Niconiades sp.,"Niconiades Hübner, 1821",GBIF Backbone Taxonomy
+710,Noreppa chromus,"Noreppa chromus Guérin-Méneville, 1844",GBIF Backbone Taxonomy
+711,Notheme erota,"Notheme erota Cramer, 1780",GBIF Backbone Taxonomy
+712,Ocaria ocrisia,"Ocaria ocrisia (Hewitson, 1868)",ITIS
+713,Ocaria ocrisia,"Ocaria ocrisia Hewitson, 1868",GBIF Backbone Taxonomy
+714,Oenomaus ortygnus,"Oenomaus ortygnus (Cramer, 1779)",ITIS
+715,Oenomaus ortygnus,"Oenomaus ortygnus Cramer, 1782",GBIF Backbone Taxonomy
+716,Oenomaus sp.,"Oenomaus Hübner, 1819",ITIS
+717,Oenomaus sp.,"Oenomaus Hübner, 1819",GBIF Backbone Taxonomy
+718,Oleria makrena,"Oleria makrena Hewitson, 1854",GBIF Backbone Taxonomy
+719,Oleria susiana,"Oleria susiana C. Felder, 1862",GBIF Backbone Taxonomy
+720,Opsiphanes,"Opsiphanes Doubleday in Doubleday & Westwood, 1849",GBIF Backbone Taxonomy
+721,Opsiphanes bogotanus,"Opsiphanes bogotanus Distant, 1875",GBIF Backbone Taxonomy
+722,Opsiphanes cassiae,"Opsiphanes cassiae Linnaeus, 1758",GBIF Backbone Taxonomy
+723,Opsiphanes cassina,"Opsiphanes cassina Felder, 1862",GBIF Backbone Taxonomy
+724,Opsiphanes sp.,"Opsiphanes Doubleday in Doubleday & Westwood, 1849",GBIF Backbone Taxonomy
+725,Opsiphanes tamarindi,"Opsiphanes tamarindi Felder, 1861",GBIF Backbone Taxonomy
+726,Oressinoma typhla,"Oressinoma typhla Doubleday, 1849",GBIF Backbone Taxonomy
+727,Orthos sp.,"Orthos Evans, 1955",GBIF Backbone Taxonomy
+728,Ostrinotes kelia,"Ostrinotes Johnson, Austin, Le Crom & Salazar, 1997",GBIF Backbone Taxonomy
+729,Ouleus fridericus,"Ouleus fridericus Geyer, 1832",GBIF Backbone Taxonomy
+730,Oxeoschistus puerta,"Oxeoschistus puerta Westwood, 1851",GBIF Backbone Taxonomy
+731,Paches loxus,"Paches loxus Westwood, 1852",GBIF Backbone Taxonomy
+732,Pagyris cymothoe,"Pagyris Boisduval, 1870",GBIF Backbone Taxonomy
+733,Panacea prola,"Panacea prola Doubleday, 1848",GBIF Backbone Taxonomy
+734,Panoquina lucas,"Panoquina lucas (Fabricius, 1793)",ITIS
+735,Panoquina lucas,"Panoquina lucas (Fabricius, 1793)",GBIF Backbone Taxonomy
+736,Panthiades bathildis,"Panthiades Hübner, 1819",GBIF Backbone Taxonomy
+737,Panthiades bitias,"Panthiades bitias Cramer, 1779",GBIF Backbone Taxonomy
+738,Panthiades paphlagon,"Panthiades paphlagon Felder & Felder, 1865",GBIF Backbone Taxonomy
+739,Panthiades phaleros,"Panthiades Hübner, 1819",GBIF Backbone Taxonomy
+740,Panyapedaliodes panyasis,"Panyapedaliodes panyasis Hewitson, 1861",GBIF Backbone Taxonomy
+741,Papias dictys,"Papias dictys Godman, 1900",GBIF Backbone Taxonomy
+742,Papias sp.,"Papias Godman & Salvin, 1900",GBIF Backbone Taxonomy
+743,Papilio androgeus,"Papilio androgeus Cramer, 1775",ITIS
+744,Papilio androgeus,"Papilio androgeus Cramer, 1775",GBIF Backbone Taxonomy
+745,Papilio cacicus,"Papilio cacicus Lucas, 1852",GBIF Backbone Taxonomy
+746,Papilio paeon,"Papilio paeon Boisduval, 1836",GBIF Backbone Taxonomy
+747,Papilio sp.,"Papilio Linnaeus, 1758",ITIS
+748,Papilio sp.,"Papilio (Sinoprinceps) Hancock, 1983",ITIS
+749,Papilio sp.,"Papilio (Heraclides) Hübner, 1819",ITIS
+750,Papilio sp.,"Papilio (Pterourus) Scopoli, 1777",ITIS
+751,Papilio sp.,"Papilio (Papilio) Linnaeus, 1758",ITIS
+752,Papilio sp.,"Papilio Linnaeus, 1758",GBIF Backbone Taxonomy
+753,Paracarystus hypargyra,"Paracarystus hypargyra Herrich-Schäffer, 1867",GBIF Backbone Taxonomy
+754,Parcella amarynthina,"Parcella amarynthina Felder, 1865",GBIF Backbone Taxonomy
+755,Pareuptychia hesione,"Pareuptychia hesione Sulzer, 1776",GBIF Backbone Taxonomy
+756,Pareuptychia metaleuca,"Pareuptychia metaleuca Boisduval, 1870",GBIF Backbone Taxonomy
+757,Pareuptychia ocirrhoe,"Pareuptychia ocirrhoe Fabricius, 1777",GBIF Backbone Taxonomy
+758,Pareuptychia sp.,"Pareuptychia Forster, 1964",GBIF Backbone Taxonomy
+759,Parides anchises,"Parides anchises (Linnaeus, 1758)",GBIF Backbone Taxonomy
+760,Parides arcas,"Parides arcas Cramer, 1781",GBIF Backbone Taxonomy
+761,Parides erithalion,"Parides erithalion (Boisduval, 1836)",GBIF Backbone Taxonomy
+762,Parides eurimedes,"Parides eurimedes (Stoll, 1782)",ITIS
+763,Parides eurimedes,"Parides eurimedes (Stoll, 1782)",GBIF Backbone Taxonomy
+766,Parides iphidamas,"Parides iphidamas (Fabricius, 1793)",GBIF Backbone Taxonomy
+767,Parides lycimenes,"Parides lycimenes Boisduval, 1870",GBIF Backbone Taxonomy
+768,Parides panares,"Parides panares (Gray, 1853)",GBIF Backbone Taxonomy
+769,Parides sp.,"Parides Hübner, 1819",ITIS
+770,Parides sp.,"Parides (Parides) Hübner, 1819",ITIS
+771,Parides sp.,"Parides Hübner, 1819",GBIF Backbone Taxonomy
+772,Parrhasius polibetes,"Parrhasius polibetes Cramer, 1782",GBIF Backbone Taxonomy
+773,Patia orise,"Patia orise (Boisduval, 1836)",GBIF Backbone Taxonomy
+774,Pedaliodes manis,"Pedaliodes manis Kirby, 1871",GBIF Backbone Taxonomy
+775,Pedaliodes pausia,"Pedaliodes pausia Hewitson, 1861",GBIF Backbone Taxonomy
+776,Pedaliodes pelinaea,"Pedaliodes pelinaea Hewitson, 1857",GBIF Backbone Taxonomy
+777,Pedaliodes peucestas,"Pedaliodes peucestas Hewitson, 1861",GBIF Backbone Taxonomy
+778,Pedaliodes phaea,"Pedaliodes phaea Hewitson, 1861",GBIF Backbone Taxonomy
+779,Pedaliodes plotina,"Pedaliodes plotina Hewitson, 1861",GBIF Backbone Taxonomy
+780,Pedaliodes polla,"Pedaliodes polla Thieme, 1905",GBIF Backbone Taxonomy
+781,Pedaliodes praxithea,"Pedaliodes praxithea Hewitson, 1870",GBIF Backbone Taxonomy
+782,Pedaliodes prosa,"Pedaliodes prosa Staudinger, 1894",GBIF Backbone Taxonomy
+783,Pedaliodes sp.,"Pedaliodes Butler, 1867",GBIF Backbone Taxonomy
+784,Pedaliodes suspiro,"Pedaliodes suspiro Adams & Bernard, 1979",GBIF Backbone Taxonomy
+785,Pereute callinira,"Pereute callinira Staudinger, 1884",GBIF Backbone Taxonomy
+786,Pereute charops,"Pereute charops (Boisduval, 1836)",GBIF Backbone Taxonomy
+787,Perisama bonplandii,"Perisama bonplandii Guérin-Méneville, 1844",GBIF Backbone Taxonomy
+788,Perisama oppelii,"Perisama oppelii Latreille, 1811",GBIF Backbone Taxonomy
+789,Perisama sp.,"Perisama Doubleday in Doubleday & Westwood, 1849",GBIF Backbone Taxonomy
+790,Perisama yeba,"Perisama yeba Hewitson, 1857",GBIF Backbone Taxonomy
+791,Perophthalma tullius,"Perophthalma tullius Fabricius, 1787",GBIF Backbone Taxonomy
+792,Perrhybris malenka,"Perrhybris malenka Hewitson, 1852",GBIF Backbone Taxonomy
+793,Perrhybris pamela,"Perrhybris pamela (Stoll, 1780)",GBIF Backbone Taxonomy
+794,Perrhybris sp.,"Perrhybris Hübner, 1819",GBIF Backbone Taxonomy
+795,Phanus vitreus,"Phanus vitreus Stoll, 1781",GBIF Backbone Taxonomy
+796,Pharneuptychia sp.,"Pharneuptychia Forster, 1964",GBIF Backbone Taxonomy
+797,Philaethria dido,"Philaethria dido Linnaeus, 1763",GBIF Backbone Taxonomy
+798,Phoebis agarithe,"Phoebis agarithe (Boisduval, 1836)",ITIS
+799,Phoebis agarithe,"Phoebis agarithe (Boisduval, 1836)",GBIF Backbone Taxonomy
+800,Phoebis argante,"Phoebis argante (Fabricius, 1775)",ITIS
+801,Phoebis argante,"Phoebis argante (Fabricius, 1775)",GBIF Backbone Taxonomy
+802,Phoebis neocypris,"Phoebis neocypris (Hübner, 1823)",ITIS
+803,Phoebis neocypris,"Phoebis neocypris (Hübner, 1823)",GBIF Backbone Taxonomy
+804,Phoebis philea,"Phoebis philea (Linnaeus, 1763)",ITIS
+805,Phoebis philea,"Phoebis philea (Linnaeus, 1763)",GBIF Backbone Taxonomy
+806,Phoebis rorata,"Phoebis rorata Butler, 1869",GBIF Backbone Taxonomy
+807,Phoebis rurina,"Phoebis rurina Felder, 1861",GBIF Backbone Taxonomy
+808,Phoebis sennae,"Phoebis sennae (Linnaeus, 1758)",ITIS
+809,Phoebis sennae,"Phoebis sennae (Linnaeus, 1758)",GBIF Backbone Taxonomy
+810,Phoebis sp.,"Phoebis Hübner, 1819",ITIS
+811,Phoebis sp.,"Phoebis Hübner, 1819",GBIF Backbone Taxonomy
+812,Phyciodes clio,"Phyciodes Hübner, 1819",ITIS
+813,Phyciodes clio,"Phyciodes Hübner, 1819",GBIF Backbone Taxonomy
+814,Phyciodes sp.,"Phyciodes Hübner, 1819",ITIS
+815,Phyciodes sp.,"Phyciodes Hübner, 1819",GBIF Backbone Taxonomy
+816,Pierella luna,"Pierella luna Fabricius, 1793",GBIF Backbone Taxonomy
+817,Poanes sp.,"Poanes Scudder, 1872",ITIS
+818,Poanes sp.,"Poanes Scudder, 1872",GBIF Backbone Taxonomy
+819,Prepona demophon,"Prepona demophon Linnaeus, 1758",GBIF Backbone Taxonomy
+820,Prepona dexamenus,"Prepona dexamenus Hopffer, 1874",GBIF Backbone Taxonomy
+821,Prepona laertes,"Prepona laertes Hübner, 1811",GBIF Backbone Taxonomy
+822,Prepona pylene,"Prepona pylene Hewitson, 1853",GBIF Backbone Taxonomy
+823,Prepona sp.,"Prepona Boisduval, 1836",GBIF Backbone Taxonomy
+824,Pronophila orcus,"Pronophila orcus Latreille, 1799/, 1804",GBIF Backbone Taxonomy
+825,Pronophila sp.,"Pronophila Doubleday, 1849",GBIF Backbone Taxonomy
+826,Pronophila thelebe,"Pronophila thelebe Doubleday, 1849",GBIF Backbone Taxonomy
+827,Pronophila unifasciata,"Pronophila unifasciata Lathy, 1906",GBIF Backbone Taxonomy
+828,Proteides sp.,"Proteides Hübner, 1819",ITIS
+829,Proteides sp.,"Proteides Hübner, 1819",GBIF Backbone Taxonomy
+830,Protesilaus macrosilaus,"Protesilaus macrosilaus (Gray, 1853)",GBIF Backbone Taxonomy
+831,Protesilaus molops,"Protesilaus molops (Rothschild & Jordan, 1906)",GBIF Backbone Taxonomy
+832,Protesilaus protesilaus,"Protesilaus protesilaus (Linnaeus, 1758)",GBIF Backbone Taxonomy
+833,Protesilaus telesilaus,"Protesilaus telesilaus (Felder & Felder, 1864)",GBIF Backbone Taxonomy
+834,Protographium agesilaus,"Protographium agesilaus (Guérin & Percheron, 1835)",GBIF Backbone Taxonomy
+835,Protographium dioxippus,"Protographium dioxippus (Hewitson, 1856)",GBIF Backbone Taxonomy
+836,Protographium thyastes,"Protographium thyastes (Drury, 1782)",GBIF Backbone Taxonomy
+837,Pseudipieris nehemia,"Pseudopieris nehemia (Boisduval, 1836)",GBIF Backbone Taxonomy
+838,Pseudolycaena marsyas,"Pseudolycaena marsyas Linnaeus, 1758",GBIF Backbone Taxonomy
+839,Pseudolycaena sp.,"Pseudolycaena Wallengren, 1858",GBIF Backbone Taxonomy
+840,Pseudopieris nehemia,"Pseudopieris nehemia (Boisduval, 1836)",GBIF Backbone Taxonomy
+841,Pteronymia aletta,"Pteronymia aletta Hewitson, 1854",GBIF Backbone Taxonomy
+843,Pteronymia alissa,"Pteronymia alissa Hewitson, 1869",GBIF Backbone Taxonomy
+844,Pteronymia laura,"Pteronymia laura Staudinger, 1885",GBIF Backbone Taxonomy
+845,Pteronymia  laura,"Pteronymia laura Staudinger, 1885",GBIF Backbone Taxonomy
+846,Pteronymia zabina,"Pteronymia zabina Hewitson, 1856",GBIF Backbone Taxonomy
+847,Pterourus cacicus,"Pterourus Scopoli, 1777",GBIF Backbone Taxonomy
+848,Pterourus menatius,"Pterourus Scopoli, 1777",GBIF Backbone Taxonomy
+849,Pyrdalus corbulo,"Pyrdalus Mabille, 1903",GBIF Backbone Taxonomy
+850,Pyrgus adepta,"Pyrgus adepta Plötz, 1884",GBIF Backbone Taxonomy
+851,Pyrgus orcus,"Pyrgus orcus Stoll, 1780",GBIF Backbone Taxonomy
+852,Pyrgus sp.,"Pyrgus Hübner, 1819",ITIS
+853,Pyrgus sp.,"Pyrgus Albers, 1850",GBIF Backbone Taxonomy
+854,Pyrgus sp.,"Pyrgus Hübner, 1819",GBIF Backbone Taxonomy
+855,Pyrgus sp.,"Pyrgus Loureiro, 1790",GBIF Backbone Taxonomy
+856,Pyrgus syrichtus,"Pyrgus syrichtus Fabricius, 1775",GBIF Backbone Taxonomy
+857,Pyrisitia isitia sp.,"Pyrisitia Butler, 1870",ITIS
+858,Pyrisitia isitia sp.,"Pyrisitia Butler, 1870",GBIF Backbone Taxonomy
+859,Pyrisitia leuce,"Pyrisitia leuce (Boisduval, 1836)",GBIF Backbone Taxonomy
+860,Pyrisitia limbia,"Pyrisitia Butler, 1870",ITIS
+861,Pyrisitia limbia,"Pyrisitia Butler, 1870",GBIF Backbone Taxonomy
+862,Pyrisitia nise,"Pyrisitia nise (Cramer, 1775)",ITIS
+863,Pyrisitia nise,"Pyrisitia nise (Cramer, 1775)",GBIF Backbone Taxonomy
+864,Pyrisitia proterpia,"Pyrisitia proterpia (Fabricius, 1775)",ITIS
+865,Pyrisitia proterpia,"Pyrisitia proterpia (Fabricius, 1775)",GBIF Backbone Taxonomy
+866,Pyrisitia venusta,"Pyrisitia venusta (Boisduval, 1836)",GBIF Backbone Taxonomy
+867,Pyrrhogyra,"Pyrrhogyra Hübner, 1819",GBIF Backbone Taxonomy
+868,Pyrrhogyra crameri,Pyrrhogyra crameri Aurivillius,GBIF Backbone Taxonomy
+869,Pyrrhogyra edocla,"Pyrrhogyra edocla Doubleday, 1848",GBIF Backbone Taxonomy
+870,Pyrrhogyra otolais,"Pyrrhogyra otolais Bates, 1864",GBIF Backbone Taxonomy
+871,Pyrrhopyge phidias,"Pyrrhopyge phidias Linnaeus, 1758",GBIF Backbone Taxonomy
+872,Pyrrhopyge sp.,"Pyrrhopyge Hübner, 1819",GBIF Backbone Taxonomy
+873,Rekoa mento,"Rekoa Kaye, 1904",ITIS
+874,Rekoa mento,"Rekoa Kaye, 1904",GBIF Backbone Taxonomy
+875,Rekoa meton,"Rekoa meton Cramer, 1782",GBIF Backbone Taxonomy
+876,Rekoa palegon,"Rekoa palegon (Cramer, 1780)",ITIS
+877,Rekoa palegon,"Rekoa palegon (Cramer, 1780)",GBIF Backbone Taxonomy
+878,Rekoa stagira,"Rekoa Kaye, 1904",ITIS
+879,Rekoa stagira,"Rekoa Kaye, 1904",GBIF Backbone Taxonomy
+880,Rethus arcius,Rethus,GBIF Backbone Taxonomy
+881,Rhetus arcius,"Rhetus arcius Linnaeus, 1763",GBIF Backbone Taxonomy
+882,Rhetus dysonii,"Rhetus dysonii Saunders, 1849",GBIF Backbone Taxonomy
+883,Rhetus periander,"Rhetus periander Cramer, 1777",GBIF Backbone Taxonomy
+884,Rhetus sp.,"Rhetus Swainson, 1829",GBIF Backbone Taxonomy
+885,Ridens sp.,"Ridens Evans, 1952",GBIF Backbone Taxonomy
+886,Rothschildia,"Rothschildia Grote, 1896",ITIS
+887,Rothschildia,"Rothschildia Mocquard, 1905",GBIF Backbone Taxonomy
+888,Rothschildia,"Rothschildia Grote, 1896",GBIF Backbone Taxonomy
+889,Rothschildia,"Rothschildia Perkins in Wilson & Evans, 1899",GBIF Backbone Taxonomy
+890,Sais rosalia,"Sais rosalia Cramer, 1782",GBIF Backbone Taxonomy
+891,Saliana antoninus,"Saliana antoninus Latreille, 1824",GBIF Backbone Taxonomy
+892,Sangala beata,"Sangala beata Walker, 1856",GBIF Backbone Taxonomy
+893,Siderone galanthis,"Siderone galanthis Cramer, 1775/76",GBIF Backbone Taxonomy
+894,Siproeta epaphus,"Siproeta epaphus (Latreille, 1813)",ITIS
+895,Siproeta epaphus,"Siproeta epaphus (Latreille, 1813)",GBIF Backbone Taxonomy
+896,Siproeta sp,"Siproeta Hübner, 1823",ITIS
+897,Siproeta sp,"Siproeta Hübner, 1823",GBIF Backbone Taxonomy
+898,Siproeta stelenes,"Siproeta stelenes (Linnaeus, 1758)",ITIS
+899,Siproeta stelenes,"Siproeta stelenes (Linnaeus, 1758)",GBIF Backbone Taxonomy
+900,Smyrna blomfidia,"Smyrna blomfildia (Fabricius, 1781)",ITIS
+901,Smyrna blomfidia,"Smyrna blomfildia Fabricius, 1781",GBIF Backbone Taxonomy
+902,Smyrna blomfildia,"Smyrna blomfildia (Fabricius, 1781)",ITIS
+903,Smyrna blomfildia,"Smyrna blomfildia Fabricius, 1781",GBIF Backbone Taxonomy
+904,Sorata chrysus,"Sorata Strand, 1907",GBIF Backbone Taxonomy
+905,Sostrata sp.,"Sostrata Godman and Salvin, 1895",ITIS
+906,Sostrata sp.,"Sostrata Godman & Salvin, 1895",GBIF Backbone Taxonomy
+909,Staphylus caribbea,"Staphylus caribbea Williams & Bell, 1940",GBIF Backbone Taxonomy
+910,Staphylus imperspicua,"Staphylus Godman and Salvin, 1896",ITIS
+911,Staphylus imperspicua,"Staphylus Godman & Salvin, 1896",GBIF Backbone Taxonomy
+912,Staphylus lizeri,"Staphylus lizeri Hayward, 1938",GBIF Backbone Taxonomy
+913,Steremnia,"Steremnia Thieme, 1905",GBIF Backbone Taxonomy
+914,Strephonota ericeta,"Strephonota K. Johnson, Austin, Le Crom and Salazar, 1997",ITIS
+915,Strephonota ericeta,"Strephonota K. Johnson, Austin, Le Crom & Salazar, 1997",GBIF Backbone Taxonomy
+916,Strephonota parvipuncta,"Strephonota K. Johnson, Austin, Le Crom and Salazar, 1997",ITIS
+917,Strephonota parvipuncta,"Strephonota K. Johnson, Austin, Le Crom & Salazar, 1997",GBIF Backbone Taxonomy
+918,Strephonota sphinx,"Strephonota K. Johnson, Austin, Le Crom and Salazar, 1997",ITIS
+919,Strephonota sphinx,"Strephonota K. Johnson, Austin, Le Crom & Salazar, 1997",GBIF Backbone Taxonomy
+920,Strephonota tephraeus,"Strephonota tephraeus (Geyer, 1837)",ITIS
+921,Strephonota tephraeus,"Strephonota tephraeus (Geyer, 1837)",GBIF Backbone Taxonomy
+922,Strymon albata,"Strymon albata (C. Felder and R. Felder, 1865)",ITIS
+923,Strymon albata,"Strymon albata (C. Felder & R. Felder, 1865)",GBIF Backbone Taxonomy
+924,Strymon bazochii,"Strymon bazochii (Godart, 1824)",ITIS
+925,Strymon bazochii,"Strymon bazochii (Godart, 1824)",GBIF Backbone Taxonomy
+926,Strymon bubastus,"Strymon Hübner, 1818",ITIS
+927,Strymon bubastus,"Strymon Hübner, 1818",GBIF Backbone Taxonomy
+928,Strymon cestri,"Strymon cestri (Reakirt, 1867)",ITIS
+929,Strymon cestri,"Strymon cestri (Reakirt, 1867)",GBIF Backbone Taxonomy
+930,Strymon megarus,"Strymon Hübner, 1818",ITIS
+931,Strymon megarus,"Strymon Hübner, 1818",GBIF Backbone Taxonomy
+932,Strymon mulucha,"Strymon Hübner, 1818",ITIS
+933,Strymon mulucha,"Strymon Hübner, 1818",GBIF Backbone Taxonomy
+934,Strymon sp.,"Strymon Hübner, 1818",ITIS
+935,Strymon sp.,"Strymon Hübner, 1818",GBIF Backbone Taxonomy
+936,Symbiopsis tanais,"Symbiopsis tanais Godman & Salvin, 1887",GBIF Backbone Taxonomy
+937,Symbiopsis tanias,"Symbiopsis tanais Godman & Salvin, 1887",GBIF Backbone Taxonomy
+938,Synapte malitiosa,"Synapte malitiosa (Herrich-Schäffer, 1865)",ITIS
+939,Synapte malitiosa,"Synapte malitiosa Herrich-Schäffer, 1865",GBIF Backbone Taxonomy
+940,Taygetis asterie,"Taygetis asterie Weymer, 1911",GBIF Backbone Taxonomy
+941,Taygetis chrysogone,"Taygetis chrysogone Doubleday, 1849",GBIF Backbone Taxonomy
+942,Taygetis kerea,"Taygetis kerea Butler, 1869",GBIF Backbone Taxonomy
+943,Taygetis laches,"Taygetis laches Fabricius, 1793",GBIF Backbone Taxonomy
+944,Taygetis rufomarginata,"Taygetis rufomarginata Staudinger, 1888",GBIF Backbone Taxonomy
+945,Taygetis sp.,"Taygetis Hübner, 1819",GBIF Backbone Taxonomy
+946,Taygetis sylvia,"Taygetis sylvia Bates, 1866",GBIF Backbone Taxonomy
+947,Taygetis thamyra,"Taygetis thamyra Cramer, 1782",GBIF Backbone Taxonomy
+948,Taygetis virgilia,"Taygetis virgilia Cramer, 1779",GBIF Backbone Taxonomy
+949,Tegosa anieta,"Tegosa anieta Hewitson, 1864",GBIF Backbone Taxonomy
+951,Telemiades sp.,"Telemiades Hübner, 1819",GBIF Backbone Taxonomy
+952,Telenassa delphia,"Telenassa delphia Felder, 1861",GBIF Backbone Taxonomy
+953,Telles arcalaus,"Telles arcalaus Stoll, 1782",GBIF Backbone Taxonomy
+954,Temenis laothoe,"Temenis laothoe (Cramer, 1777)",ITIS
+955,Temenis laothoe,"Temenis laothoe Cramer, 1779",GBIF Backbone Taxonomy
+956,Thecla sp.,"Thecla Fabricius, 1807",GBIF Backbone Taxonomy
+957,Theope virgilius,"Theope virgilius Fabricius, 1793",GBIF Backbone Taxonomy
+958,Theritas paupera,"Theritas Hübner, 1818",GBIF Backbone Taxonomy
+959,Thessia athesis,"Thessia Steinhauser, 1989",ITIS
+960,Thessia athesis,"Thessia Steinhauser, 1989",GBIF Backbone Taxonomy
+961,Thisbe irenea,"Thisbe irenea Stoll, 1780",GBIF Backbone Taxonomy
+962,Thisbe lycorias,"Thisbe lycorias Hewitson, 1852",GBIF Backbone Taxonomy
+963,Thyridia psidii,"Thyridia psidii Linnaeus, 1758",GBIF Backbone Taxonomy
+964,Timochares trifasciata,"Timochares trifasciata Hewitson, 1868",GBIF Backbone Taxonomy
+965,Timochreon doria,"Timochreon doria Plötz, 1884",GBIF Backbone Taxonomy
+966,Timochreon satyrus,"Timochreon satyrus Felder, 1867",GBIF Backbone Taxonomy
+967,Tithorea harmonia,"Tithorea harmonia Cramer, 1779",GBIF Backbone Taxonomy
+968,Tmolus echion,"Tmolus echion (Linnaeus, 1767)",ITIS
+969,Tmolus echion,"Tmolus echion Linnaeus, 1767",GBIF Backbone Taxonomy
+970,Urania fulgens,"Urania fulgens Walker, 1854",GBIF Backbone Taxonomy
+971,Urbanus chalco,"Urbanus chalco Hübner, 1823",GBIF Backbone Taxonomy
+972,Urbanus dorantes,"Urbanus dorantes (Stoll, 1790)",ITIS
+973,Urbanus dorantes,"Urbanus dorantes Stoll, 1790",GBIF Backbone Taxonomy
+974,Urbanus esmeraldus,"Urbanus esmeraldus (Butler, 1877)",ITIS
+975,Urbanus esmeraldus,"Urbanus esmeraldus Butler, 1877",GBIF Backbone Taxonomy
+976,Urbanus esta,"Urbanus esta Evans, 1952",GBIF Backbone Taxonomy
+977,Urbanus eurycles,"Urbanus eurycles Latreille, 1824",GBIF Backbone Taxonomy
+978,Urbanus proteus,"Urbanus proteus (Linnaeus, 1758)",ITIS
+979,Urbanus proteus,"Urbanus proteus Linnaeus, 1758",GBIF Backbone Taxonomy
+980,Urbanus simplicius,"Urbanus simplicius (Stoll, 1790)",ITIS
+981,Urbanus simplicius,"Urbanus simplicius Stoll, 1790",GBIF Backbone Taxonomy
+982,Urbanus sp.,"Urbanus Hübner, 1807",ITIS
+983,Urbanus sp.,"Urbanus Hübner, 1807",GBIF Backbone Taxonomy
+984,Urbanus tanna,"Urbanus tanna Evans, 1952",ITIS
+985,Urbanus tanna,"Urbanus tanna Evans, 1952",GBIF Backbone Taxonomy
+986,Vanessa myrinna,"Vanessa [Fabricius], 1807",ITIS
+987,Vanessa myrinna,"Vanessa Fabricius, 1807",GBIF Backbone Taxonomy
+988,Vanessa myrinna,"Vanessa Rafinesque, 1837",GBIF Backbone Taxonomy
+989,Vanessa sp.,"Vanessa [Fabricius], 1807",ITIS
+990,Vanessa sp.,"Vanessa Fabricius, 1807",GBIF Backbone Taxonomy
+991,Vanessa sp.,"Vanessa Rafinesque, 1837",GBIF Backbone Taxonomy
+992,Vanessa virginiensis,"Vanessa virginiensis (Drury, 1773)",ITIS
+993,Vanessa virginiensis,"Vanessa virginiensis (Drury, 1773)",GBIF Backbone Taxonomy
+994,Vettius coryna,"Vettius coryna Hewitson, 1866",GBIF Backbone Taxonomy
+995,Vettius diversa,"Vettius diversa Herrich-Schäffer, 1869",GBIF Backbone Taxonomy
+996,Vettius sp.,"Vettius Godman, 1901",ITIS
+997,Vettius sp.,"Vettius Godman, 1901",GBIF Backbone Taxonomy
+998,Vettius tertianus,"Vettius tertianus Herrich-Schäffer, 1869",GBIF Backbone Taxonomy
+999,Wahydra sp.,"Wahydra Steinhauser, 1991",GBIF Backbone Taxonomy
+1000,Xanthyris flaveolata,"Xanthyris flaveolata Linnaeus, 1758",GBIF Backbone Taxonomy
+1001,Xenophanes tryxus,"Xenophanes tryxus (Stoll in Cramer, 1780)",ITIS
+1002,Xenophanes tryxus,"Xenophanes tryxus Stoll, 1780",GBIF Backbone Taxonomy
+1003,Yphthimoides argyrospila,"Yphthimoides argyrospila Butler, 1867",GBIF Backbone Taxonomy
+1004,Yphthimoides austera,"Yphthimoides Forster, 1964",GBIF Backbone Taxonomy
+1005,Yphthimoides renata,"Yphthimoides renata Cramer, 1782",GBIF Backbone Taxonomy
+1006,Yphthimoides sp.,"Yphthimoides Forster, 1964",GBIF Backbone Taxonomy
+1007,Yphthimoides yphthima,"Yphthimoides yphthima Felder, 1867",GBIF Backbone Taxonomy
+1008,Yphtimoides yphtima,"Yphthimoides yphthima Felder, 1867",GBIF Backbone Taxonomy
+1009,Zaretis ellops,"Zaretis ellops Ménétriés, 1855",GBIF Backbone Taxonomy
+1010,Zerene cesonia,"Zerene cesonia (Stoll, 1790)",ITIS
+1011,Zerene cesonia,"Zerene cesonia (Stoll, 1790)",GBIF Backbone Taxonomy
+1012,Ziegleria ceromia,"Ziegleria K. Johnson, 1993",ITIS
+1013,Ziegleria ceromia,"Ziegleria K. Johnson, 1993",GBIF Backbone Taxonomy
+1014,Ziegleria hesperitis,"Ziegleria K. Johnson, 1993",ITIS
+1015,Ziegleria hesperitis,"Ziegleria K. Johnson, 1993",GBIF Backbone Taxonomy
+1016,Zizula cina,"Zizula cyna (W. H. Edwards, 1881)",ITIS
+1017,Zizula cina,"Zizula cyna (W. H. Edwards, 1881)",GBIF Backbone Taxonomy
+1018,Zopyrion satyrina,"Zopyrion satyrina Felder & Felder, 1867",GBIF Backbone Taxonomy
