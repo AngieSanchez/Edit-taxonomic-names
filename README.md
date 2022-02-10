@@ -1,2 +1,2 @@
 # Edit-taxonomic-names
-By means of the Taxize package of R, correct taxonomic names.
+Using the Taxize package avalible on R, correct taxonomic names.
